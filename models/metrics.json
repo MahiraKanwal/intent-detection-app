@@ -1,0 +1,110 @@
+{
+  "trained_at": "2026-11-22 18:19:59",
+  "sklearn_version": "1.9.1",
+  "n_samples": 3900,
+  "n_intents": 15,
+  "n_features": 13012,
+  "n_hard_test": 91,
+  "best_C": 20,
+  "test_accuracy": 0.9987179487179487,
+  "test_macro_f1": 0.9987178301741408,
+  "hard_accuracy": 0.978021978021978,
+  "hard_macro_f1": 0.9776223776223777,
+  "comparison": [
+    {
+      "name": "Naive Bayes",
+      "cv_acc": 0.9929487179487179,
+      "cv_f1": 0.9929188734965451,
+      "test_acc": 0.9910256410256411,
+      "hard_acc": 0.967032967032967
+    },
+    {
+      "name": "Linear SVM",
+      "cv_acc": 0.9993589743589745,
+      "cv_f1": 0.9993649893692418,
+      "test_acc": 0.9987179487179487,
+      "hard_acc": 0.978021978021978
+    },
+    {
+      "name": "Logistic Reg.",
+      "cv_acc": 0.9990384615384615,
+      "cv_f1": 0.9990435175706457,
+      "test_acc": 0.9987179487179487,
+      "hard_acc": 0.978021978021978
+    },
+    {
+      "name": "LogReg (words only)",
+      "cv_acc": 0.9935897435897438,
+      "cv_f1": 0.9935909420991133,
+      "test_acc": 0.9961538461538462,
+      "hard_acc": 0.9560439560439561
+    }
+  ],
+  "per_intent_hard_f1": {
+    "calculate": 1.0,
+    "get_time": 0.923,
+    "get_weather": 0.909,
+    "greeting": 1.0,
+    "make_call": 1.0,
+    "navigate": 1.0,
+    "open_website": 1.0,
+    "play_music": 1.0,
+    "send_message": 1.0,
+    "set_alarm": 1.0,
+    "set_reminder": 1.0,
+    "set_timer": 1.0,
+    "smart_home": 0.923,
+    "tell_joke": 0.909,
+    "web_search": 1.0
+  },
+  "per_intent_test_f1": {
+    "calculate": 1.0,
+    "get_time": 0.99,
+    "get_weather": 0.99,
+    "greeting": 1.0,
+    "make_call": 1.0,
+    "navigate": 1.0,
+    "open_website": 1.0,
+    "play_music": 1.0,
+    "send_message": 1.0,
+    "set_alarm": 1.0,
+    "set_reminder": 1.0,
+    "set_timer": 1.0,
+    "smart_home": 1.0,
+    "tell_joke": 1.0,
+    "web_search": 1.0
+  },
+  "hard_errors": [
+    {
+      "text": "how humid is it right now",
+      "true": "get_weather",
+      "pred": "get_time",
+      "confidence": 0.836
+    },
+    {
+      "text": "lighten the mood",
+      "true": "tell_joke",
+      "pred": "smart_home",
+      "confidence": 0.375
+    }
+  ],
+  "hard_conf_correct_mean": 0.9096729882620936,
+  "hard_conf_wrong_mean": 0.6056146541906372,
+  "intent_counts": {
+    "calculate": 260,
+    "get_time": 260,
+    "get_weather": 260,
+    "greeting": 260,
+    "make_call": 260,
+    "navigate": 260,
+    "open_website": 260,
+    "play_music": 260,
+    "send_message": 260,
+    "set_alarm": 260,
+    "set_reminder": 260,
+    "set_timer": 260,
+    "smart_home": 260,
+    "tell_joke": 260,
+    "web_search": 260
+  }
+}

@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Intentia · Intent detection for short commands</title>
+  <meta name="description" content="An NLP model that reads short commands like “wake me at 6” or “weather in lahore”, works out the intent and acts on it.">
+  <meta name="theme-color" content="#0a0f24">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='none' stroke='%237C6CFF' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='5' fill='%2337E0C2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <a class="skip" href="#cmd">Skip to the command box</a>
+
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="#assistant" aria-label="Intentia home">
+        <svg width="28" height="28" viewBox="0 0 32 32" aria-hidden="true">
+          <circle cx="16" cy="16" r="13" fill="none" stroke="#7C6CFF" stroke-width="3"/>
+          <circle cx="16" cy="16" r="5" fill="#37E0C2"/>
+        </svg>
+        <span>Intentia</span>
+      </a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#assistant">Assistant</a>
+        <a href="#how">How it works</a>
+        <a href="#model">Model results</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero wrap" id="assistant">
+      <div class="hero-copy">
+        <h1>Type a command.<br>See what it means.</h1>
+        <p class="lede">A small NLP model reads short commands like “wake me at 6” or “weather in lahore”, works out what you want, and then does it: opens the page, starts the timer, switches the light.</p>
+
+        <form id="cmd-form" class="cmdbar" autocomplete="off">
+          <label for="cmd" class="sr-only">Your command</label>
+          <span class="prompt" aria-hidden="true">›</span>
+          <input id="cmd" name="cmd" type="text" maxlength="300" spellcheck="false" placeholder="remind me to call ali at 5 pm" autofocus>
+          <button type="button" id="mic" class="mic" aria-label="Speak a command" hidden>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>
+          </button>
+          <button type="submit" class="run">Run command</button>
+        </form>
+
+        <div class="cmd-meta">
+          <label class="switch">
+            <input type="checkbox" id="autoopen" checked>
+            <span class="track" aria-hidden="true"></span>
+            Open links automatically
+          </label>
+          <span class="hint">Press <kbd>/</kbd> to jump to the box</span>
+        </div>
+
+        <div class="chips" id="chips" aria-label="Example commands"></div>
+      </div>
+
+      <div class="dial-wrap">
+        <svg id="dial" viewBox="0 0 520 520" role="group" aria-label="The 15 intents the model knows. The detected one lights up."></svg>
+      </div>
+    </section>
+
+    <section class="result wrap" id="result" aria-live="polite" aria-label="Result">
+      <div class="result-empty">
+        <h2>Your result appears here</h2>
+        <p>Run a command above, or click any node on the dial to try its example.</p>
+      </div>
+    </section>
+
+    <section class="widgets wrap" aria-label="Live panels">
+      <div class="panel" id="panel-timers">
+        <div class="panel-head"><h2>Timers, alarms &amp; reminders</h2></div>
+        <ul class="schedule" id="schedule"></ul>
+        <p class="note">They ring while this tab stays open.</p>
+      </div>
+
+      <div class="panel" id="panel-home">
+        <div class="panel-head"><h2>Virtual smart home</h2></div>
+        <div class="devices" id="devices"></div>
+        <p class="note">Say “turn on the fan” or tap a tile.</p>
+      </div>
+
+      <div class="panel" id="panel-history">
+        <div class="panel-head">
+          <h2>Recent commands</h2>
+          <button type="button" class="link-btn" id="clear-history">Clear</button>
+        </div>
+        <ul class="history" id="history"></ul>
+      </div>
+    </section>
+
+    <section class="how wrap" id="how">
+      <h2 class="section-title">How a sentence becomes an action</h2>
+      <p class="section-sub">Five steps, all visible in the code. Nothing here calls an external AI service.</p>
+      <ol class="pipeline">
+        <li><h3>Clean the text</h3><p>Lower-case, remove odd symbols. Words like “on”, “off” and “in” stay, because they change the meaning of a command.</p></li>
+        <li><h3>Turn words into numbers</h3><p>TF-IDF over words and character groups, so “alrm” still looks a lot like “alarm”.</p></li>
+        <li><h3>Pick the intent</h3><p>Logistic regression scores all 15 intents. Below 45% confidence the app says it is not sure.</p></li>
+        <li><h3>Pull out the details</h3><p>Rules find times, durations, contacts, places, songs and numbers in the sentence.</p></li>
+        <li><h3>Act</h3><p>The intent and details become a link, a timer, a device switch or a reply.</p></li>
+      </ol>
+    </section>
+
+    <section class="model wrap" id="model">
+      <h2 class="section-title">How well it works</h2>
+      <p class="section-sub" id="model-sub">Loading results…</p>
+      <div class="stats" id="stats"></div>
+      <div class="model-grid">
+        <div>
+          <h3 class="sub-title">Model comparison</h3>
+          <div class="table-wrap"><table class="table" id="cmp"></table></div>
+          <img class="plot" src="{{ url_for('static', filename='img/model_comparison.png') }}" alt="Bar chart comparing four models on cross-validation macro-F1 and hard-test accuracy" loading="lazy">
+          <h3 class="sub-title">F1 score per intent (hard test)</h3>
+          <div class="f1list" id="f1list"></div>
+        </div>
+        <div>
+          <h3 class="sub-title">Confusion matrix</h3>
+          <img class="plot" src="{{ url_for('static', filename='img/confusion_matrix.png') }}" alt="Confusion matrix of predicted versus true intents on the hand-written hard-test set" loading="lazy">
+          <details class="errors">
+            <summary>Sentences the model got wrong</summary>
+            <ul id="errors"></ul>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p>Intentia is a university NLP project: intent classification for short commands with scikit-learn and Flask.</p>
+    </div>
+  </footer>
+
+  <div class="toasts" id="toasts" role="status" aria-live="polite"></div>
+  <div class="ring" id="ring" hidden role="alertdialog" aria-labelledby="ring-text">
+    <p id="ring-text"></p>
+    <button type="button" id="ring-stop">Stop</button>
+  </div>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

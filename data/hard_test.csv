@@ -1,0 +1,92 @@
+text,intent
+i'm in the mood for some old school qawwali,play_music
+could you blast some coldplay in the living room,play_music
+throw on that new taylor swift album,play_music
+let me hear something upbeat while i cook,play_music
+spotify play my daily mix,play_music
+bring on the tunes,play_music
+i've got an early flight so wake me at 4:30 tomorrow morning,set_alarm
+ring the alarm at quarter past six,set_alarm
+need to get up by 5am for fajr so set it,set_alarm
+alarm for 7 on weekdays,set_alarm
+make sure i'm up at 8 sharp,set_alarm
+set my wakeup call for 6:45,set_alarm
+time my pasta for 9 minutes,set_timer
+give me a 3 minute countdown,set_timer
+start counting down 2 minutes,set_timer
+i need to steep tea for four minutes so set a timer,set_timer
+timer 1 hour 30 minutes,set_timer
+set a timer of 50 seconds,set_timer
+don't forget to remind me about mom's birthday on saturday,set_reminder
+i should be reminded to pay rent on the 1st,set_reminder
+ping me later to drink water,set_reminder
+note to self call the bank tomorrow morning,set_reminder
+remind me in two hours to check the oven,set_reminder
+i keep forgetting my vitamins so remind me every night at 9,set_reminder
+is it gonna be sunny this weekend,get_weather
+do i need a jacket in murree tomorrow,get_weather
+how humid is it right now,get_weather
+what's the temperature outside,get_weather
+will there be a storm tonight in lahore,get_weather
+give me the five day forecast for karachi,get_weather
+shoot a quick text to hamza that i'm outside,send_message
+drop a whatsapp to my sister saying happy eid,send_message
+let uncle know via sms that the parcel arrived,send_message
+email my professor that i'll miss class,send_message
+write to fatima dinner at eight,send_message
+send hi to ayesha on whatsapp,send_message
+get my dad on the phone,make_call
+i want to talk to the doctor so ring him,make_call
+connect me with customer care at 111 222 333,make_call
+start a voice call with bilal,make_call
+phone home,make_call
+dial emergency services,make_call
+what's the difference between precision and recall,web_search
+find me tutorials on flask,web_search
+look for cheap flights to dubai,web_search
+who won the cricket world cup in 2011,web_search
+how many calories are in a banana,web_search
+search for the meaning of serendipity,web_search
+how long will it take to drive to murree,navigate
+route me to the nearest gas station,navigate
+show me the fastest way home,navigate
+i'm lost so where's the closest pharmacy,navigate
+get me to f-10 markaz,navigate
+find parking near centaurus mall,navigate
+got the time,get_time
+what's the date today,get_time
+is it already noon,get_time
+tell me today's date and day,get_time
+how late is it in tokyo,get_time
+what hour is it in new york,get_time
+pull up github for me,open_website
+launch my gmail inbox,open_website
+i wanna check facebook,open_website
+bring up the wikipedia page,open_website
+fire up netflix,open_website
+hop onto stackoverflow,open_website
+it's too dark in here so lights on,smart_home
+kill the fan in the bedroom,smart_home
+make it cooler in here with the ac at 22,smart_home
+shut off the tv,smart_home
+can you lock the front door,smart_home
+switch the geyser on i want a hot shower,smart_home
+i need a good laugh,tell_joke
+got any dad jokes for me,tell_joke
+entertain me with something funny,tell_joke
+say a joke about programmers,tell_joke
+lighten the mood,tell_joke
+crack me up,tell_joke
+what's 45 times 12,calculate
+how much is 1500 minus 275,calculate
+work out 18 percent of 250,calculate
+divide 144 by 12 for me,calculate
+square root of 225,calculate
+sum of 15 and 27,calculate
+hiya,greeting
+good to see you,greeting
+how's it going,greeting
+thanks a lot that was helpful,greeting
+what are you capable of,greeting
+peace out see you tomorrow,greeting
+salam kaise ho,greeting

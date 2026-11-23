@@ -1,0 +1,3901 @@
+text,intent
+Please remind me to book tickets tonight right now,set_reminder
+So google benefits of exercise,web_search
+start the timer for 30 seconds now,set_timer
+Hey assistant send mom a message rigth now,send_message
+Please i'm bored say something funny now,tell_joke
+The beach ka rasta baao,navigate
+please cheer me up asap,tell_joke
+Assistant hi right now,greeting
+ok google drive kholo right now,open_website
+check the weather in peshawar,get_weather
+weatherin dubai please,get_weather
+MUJHE YAAD DILANA KE BUY GROCERIES,set_reminder
+um send my friend a text see you tomorrow thanks,send_message
+So take me to the stackoverflow website,open_website
+Tell me the date and day,get_time
+i want to open youtube.com thanks,open_website
+shuffle my playlist,play_music
+i want you to set a recurring alarm for 7:30 am every weekday right now,set_alarm
+hey assistant can you load linkedin for me,open_website
+HEY DIAL 555 0199 PLEASE,make_call
+i want you to how late is it,get_time
+please make me smile,tell_joke
+what houur is it in rawalpindi now?,get_time
+hey assistant call hassan on speaker,make_call
+SEND THE MEETING IS AT 5 TO DAD,send_message
+Hey assistant heater off,smart_home
+WEATHER FORECAST FOR KARACHI ASAP,get_weather
+25 - 300 thanks,calculate
+kya aaj barish hogi please,get_weather
+time check asap,get_time
+Yo,greeting
+Please set my alarm to 3:15 pm right now,set_alarm
+show me results for recipe for biryani please,web_search
+dubai mein kya time ho raha hai thanks,get_time
+Hey assistant current date,get_time
+What is the temperature in istanbul,get_weather
+yo get ahmed on the phone thanks,make_call
+Um i want some instrumental music right now please,play_music
+so dim the lights,smart_home
+so can you call my friend please,make_call
+hey assistant thanks right now,greeting
+Directions to f-10 markaz now,navigate
+ASSISTANT LOOK FOR SCIKIT LEARN DOCUMENTATION ONLINE NOW,web_search
+Please start the timer for 1 minute,set_timer
+Yo my wife ko call karo,make_call
+how cold is it in london tomorrow morning for me?,get_weather
+yo yo,greeting
+hey assistant can you reminder toc heck my email tonight,set_reminder
+ok how late is it for me,get_time
+i want you to my boss ko whatsapp karo,send_message
+Will it rain on friday?,get_weather
+murree ka mausam batao,get_weather
+um remind me to call the ank tomorrow morning,set_reminder
+hey assistant can you search the web for tf idf explained right now,web_search
+hey what is recipe for biryani asap,web_search
+hey assistant what is the temperature in sydney,get_weather
+please assalam o alaikum kaise ho for me,greeting
+help asap,greeting
+google par iphone price dhundo for me,web_search
+Hey assistant can you assalam o alaikum,greeting
+assistant open google drive,open_website
+UM YAAD DILAO DRINK WATER ON FRIDAY,set_reminder
+hey assistant time check now,get_time
+whatsapp ahmed call me back fo me,send_message
+Ok kitchen lights on karo for me,smart_home
+Hey assistant take me to murree,navigate
+hey assistant can you my brother ko call karo now,make_call
+whatsapp my wife saying happy birthday,send_message
+Blast pasoori,play_music
+I want you to start playing coke studio right now,play_music
+please mujhe 5 pm par jagana asap,set_alarm
+USMAN KO WHATSAPP KARO FOR ME,send_message
+assistant say a joke,tell_joke
+i want you to what is the time in faisalabad thanks,get_time
+i want you to text dad the meeting is at 5 for me,send_message
+please what time is it in rawalpindi for me,get_time
+So make a note to remind me to go to the gym,set_reminder
+hey assistant search for history of the nternet for me,web_search
+um tell me the date and day,get_time
+Sara ko message bhejo i will be late thanks,send_message
+Ok aaj mausam kiasa hai right now,get_weather
+COULD YOU SET A 15 MINUTES TIMER,set_timer
+Look for latest new online,web_search
+Please how far is murree,navigate
+good monring,greeting
+um calculate 7 times 80,calculate
+Send usman a message asap,send_message
+could you play the song perfect,play_music
+countdown one minute,set_timer
+Hey put on nusrat fateh ali khan please,play_music
+call customer care at 0300 1112223,make_call
+Home ka arsta batao,navigate
+pleas ewhat day is it today asap,get_time
+yaad dilao book tickets today,set_reminder
+Ok remind me to take my medicine at 10 pm please,set_reminder
+asssitant wikipedia kholo,open_website
+SUBTRACT 16 FROM 36 THANKS,calculate
+could you who is malala yousafzai for me,web_search
+i want you to could you put on some pop music for me,play_music
+how much is 25 minus 40?,calculate
+so bye please,greeting
+hey nearest atm asap,navigate
+so i'm bbored say something funny asap,tell_joke
+Hey kya aaj barish hogi,get_weather
+How long to get to f-10 markaz?,navigate
+Ok turn the living room lights off,smart_home
+um how much is 120 minus 16 thanks,calculate
+um send hamza a text good morning thanks,send_message
+multiply 5 by 30 right now,calculate
+please alarm at quarter to seven,set_alarm
+hey assistant switch the lights on,smart_home
+start a voice call with hamza,make_call
+See you asap,greeting
+Please let's hear bohemian rhapsody now,play_music
+i want you to aaj mausam kaisa hai for me,get_weather
+HEY ASSISTANT MAKE A PHONE CALL TO 03451234567 PLEASE,make_call
+play blinding lights on youtube,play_music
+plase find me capital of france,web_search
+Start a 25 minutes timer,set_timer
+Assistant what time is it in rawalpindi,get_time
+yo thanks,greeting
+ok set a reminder for this evening to send the report asap,set_reminder
+dial 0300 1112223,make_call
+joke please now,tell_joke
+let mom know that dinner is ready,send_message
+make the room cooler,smart_home
+I want you to nearest pharmacy,navigate
+i want you to nice to see you,greeting
+Hey assistant can you what's the weather like in murree,get_weather
+send zainab a message for me,send_message
+yo what is the date today please,get_time
+start navigation to lahore fort now,navigate
+meaning of nlp project ideas,web_search
+Make a note to remind me to book tickets lpease,set_reminder
+hey assistant find me tutorials on nlp project ideas,web_search
+WRITE A MESSAGE TO UNCLE PLEASE,send_message
+Please wake me at 6 in the morning tomorrow,set_alarm
+I WANT YOU TO CRACK A JOKE,tell_joke
+Yo timer for 40 seconds for me,set_timer
+Hey assistant can you how many calories in an apple right now,web_search
+Ok gana chalao asap,play_music
+so open whasapp for me,open_website
+please could you put on some instrumental music,play_music
+assistant i want to tal to the doctor,make_call
+TELL MY BROTHER I AM ON MY WAY NOW,send_message
+Hey assistant can you pull up daraz now,open_website
+Ring my friend up right now,make_call
+YAAD DILAO BOOK TICKETS NEXT MONDAY,set_reminder
+Unllock the door,smart_home
+hey assistant send ayesha a text where are you now,send_message
+catc you later,greeting
+yo yaad dilao take my medicine this weekend,set_reminder
+hey khuda hafiz,greeting
+Please add 50 and 9,calculate
+um 7 divdied by 2 right now,calculate
+could you yaad dilao book tickets this evening now,set_reminder
+is it cold outside please?,get_weather
+countdown 1 minute thanks,set_timer
+send an sms todad,send_message
+So what's the forecast for ttomorrow morning,get_weather
+hey assistant can you i want to listen to taylor swift please,play_music
+i want you to give fatima a call now,make_call
+Um subah 64:5 am baje alarm lagao right now,set_alarm
+i want you to play shape of you on youtube right now,play_music
+um can you open facebook,open_website
+Don't let me forget to attend the meeting please,set_reminder
+timer for 30 seconds right now,set_timer
+um do i need an umbrella today,get_weather
+time check for me,get_time
+find scikit learn documentation right now,web_search
+please say a joke for me,tell_joke
+ok tv on karo,smart_home
+assistant who is albert einstein thanks,web_search
+set a recurring alarm for 9 pm every weekday,set_alarm
+PLEASE SAY  A JOKE RIGHT NOW,tell_joke
+hey assistant can you find mosque near me now,navigate
+So make a call to zainab asap,make_call
+I want you to what is 100 plus 40,calculate
+ok i want to open canva right now,open_website
+Take care,greeting
+A minute timer please,set_timer
+um canva kholo thanks,open_website
+is iit sunny in sydney?,get_weather
+please solve 25 * 11 + 10,calculate
+search images of recipe for biryani asap,web_search
+OK 18 / 3,calculate
+um 7 / 55 thanks,calculate
+multiply 12 by 3 please,calculate
+hey i want tot alk to ahmed thanks,make_call
+hey assistant can you what is today,get_time
+best laptops under 1000 dollars ke bare mein search karo,web_search
+Um nearest mosque kkahan hai,navigate
+please what is the time in istanbul asap,get_time
+hey assistant can you kitcchen lights off asap,smart_home
+i want you to 9 ko 9 se multiply karo for me,calculate
+Assistant set a reminder for on saturday to send the report for me,set_reminder
+Whatsapp my friend let's meet at the cafe,send_message
+Visit netflix asap,open_website
+please call the bank ka reminder lagao,set_reminder
+hey assistant can you call mom on speaker right now,make_call
+i want you to launch spotify thanks,open_website
+Hey assistant alarm at noon thanks,set_alarm
+add a new alarm for 8:30 in the evening,set_alarm
+hey assistant can you faisal mosque ka rasta batao now,navigate
+please call ahmed,make_call
+please closest pizza place to me,navigate
+I WANT TO WAKE UP AT 7 PLEASE,set_alarm
+tell me a funny jokke asap,tell_joke
+so thanks a lot for me,greeting
+i want you to cuntdown 15 minutes,set_timer
+TELL ME THE DATE AND DAY RIGHT NOW,get_time
+Please 50 divided by 14,calculate
+hey set a wake up call for 6:45 am,set_alarm
+how late is it,get_time
+please squaer root of 1200,calculate
+Hey assistant can you start a 45 minutes countdown,set_timer
+Please start a three minutes timer now,set_timer
+Assistant visit spotify,open_website
+calculate 5 times 11,calculate
+get me up at 6 in the morning sharp,set_alarm
+tell me the current time,get_time
+Um whatsapp hamza the meeting is at 5,send_message
+How far iscentaurus mall right now,navigate
+i want you to catch you later for me,greeting
+Please subah 5:00 baje alarm lagao,set_alarm
+Yo i want to hear a joke now,tell_joke
+ok show faisal mosque on the map for me,navigate
+Um joke please,tell_joke
+set a timer for 10 minutes thanks,set_timer
+HEY MUJHE MURREE JANA HAI,navigate
+I want you to find pakistan independence day,web_search
+So whatsapp hamza i reaached home,send_message
+got any jokes thanks,tell_joke
+hey assistant set a three minutes timer thanks,set_timer
+add a reminder take my medicine,set_reminder
+ok is it already 8:30 in the evening,get_time
+hey assistant send my wife a message,send_message
+could you how long to get to f-10 markaz,navigate
+whatsapp ali saying i reached home please,send_message
+chatgpt kholo,open_website
+could you what is the temperature in paris asap,get_weather
+Google par flask tutorial dhundo,web_search
+start my workout playlist right now,play_music
+Could you start the timer fo rtwo minutes,set_timer
+book tickets ka reminder lagao for me,set_reminder
+ok hey assistant,greeting
+OK SAY A JOKE PLEASE,tell_joke
+Assistant look up benefits of exercise,web_search
+Remind me to submit the assignmenttomorrow,set_reminder
+Ok reminder to take my medicine tomorrow morning,set_reminder
+hey assistant remind me to attend the meeting please,set_reminder
+Yo turn on the lamp thanks,smart_home
+hey assistant set a reminder to pay the electricity bill right now,set_reminder
+so route to the nearest hospital,navigate
+hey assistant can you hi asap,greeting
+DIFFERENCE BETWEEN WEATHER AND CLIMATE THANKS,web_search
+Um crack a joke now,tell_joke
+Hey what's the weather like in lahore,get_weather
+Find bank near me asap,navigate
+i want you to who are you for me,greeting
+so i want to call mom right now,make_call
+hey send dad a mssage asap,send_message
+please call my wife now,make_call
+OK HELP,greeting
+Could you yaad dilao send the eport on saturday please,set_reminder
+hey assistant can you closest coffee shop to me asap,navigate
+could you drop a text to hassan i reached home,send_message
+yo tell me a dad joke,tell_joke
+Timer start kkaro 30 seconds,set_timer
+i want you to make me laugh now,tell_joke
+could you turn on the heater,smart_home
+Hey assistant can you load daraz for me,open_website
+Assistant 120 + 2 for me,calculate
+i want you to remind me to pick up the kids now,set_reminder
+please kya haal ha ithanks,greeting
+Hey assistant can you take me to the spotify website,open_website
+ok how are things right now,greeting
+write a message to hassan,send_message
+ok play taylor swift on spotify thanks,play_music
+Please phone uncle,make_call
+Temperature in istanbul right now right now,get_weather
+please i'm in the mood for hip hop forr me,play_music
+How much  is 12 minus 55,calculate
+Assistant play the next song,play_music
+yo tell me a joke thanks,tell_joke
+nearest atm now,navigate
+Hey assistant how late is it right now,get_time
+hey assistant divide 20 by  14 now,calculate
+hey assistant can you start twitter now,open_website
+Hey assistant can you 250 plus 55 kitne hotay hain thanks,calculate
+yo tell me a programming joke,tell_joke
+what's up right now,greeting
+Switch the fan on now,smart_home
+yo feed the cat ka reminder lagao,set_reminder
+um turn off the kitchen lights thanks,smart_home
+please can you open youtube,open_website
+i want you to i need a timer for 25 minutes right now,set_timer
+Yo put a timer on for 10 minutes asap,set_timer
+start a viddeo call with john asap,make_call
+ASSISTANT SET THE AC TO 24,smart_home
+START STACKOVERFLOW,open_website
+yo reminder to pay the electricity bill this evening for me,set_reminder
+hey assistant switch off the kitchen lights,smart_home
+yo give me directions to badshahi mosque,navigate
+what is iphone price for me?,web_search
+Porch light on now,smart_home
+ok yo asap,greeting
+Hey assistant turn on some music,play_music
+SO CAN YOU SEARCH HISTORY OF THE INTERNET ASAP,web_search
+Yo how many calories in a cup of rice asap,web_search
+could you call usman on speaker,make_call
+SO TELL ME THE DATE AND DAY,get_time
+Put on ed sheeran,play_music
+assistant solve 50 * 12 + 10 now,calculate
+Please search about cristiano ronaldo for me,web_search
+Hey assistant can you work out 25 plus 2 now,calculate
+Hey set a recurring alarm for 6:15 every weekday thanks,set_alarm
+so drive me to the train station please,navigate
+Please how are things,greeting
+assistant tell me the date and day please,get_time
+make the room cooler for me,smart_home
+connect me with my wife asap,make_call
+I WANT YOU TO 500 KO 4 SE MULTIPLY KARO,calculate
+hey is it already 3:15 pm,get_time
+assistant i want to open daraz thanks,open_website
+please let mom know that let's meet at the cafe right now,send_message
+ok how hot is it in islamabad please,get_weather
+DROP A TEXT TO HASSAN I REACHED HOME PLEASE,send_message
+Alarm lagao 11 am ka now,set_alarm
+ok can you search iphone price,web_search
+map of lahore fort right now,navigate
+what's the difference between albert einstein and java right now,web_search
+so shut off the porch light thanks,smart_home
+Aa jmausam kaisa hai asap,get_weather
+bring  on the instrumental music thanks,play_music
+create an alarm for noon,set_alarm
+HEY ASSISTANT CAN YOU TELL ME ANOTHER JOKE NOW,tell_joke
+OPEN LINKEDIN,open_website
+heater band ar do,smart_home
+Hey assistant remind me to go to the gym,set_reminder
+Hey make a call to sara right now,make_call
+yo please wake me at quarter to seven tomorrow right now,set_alarm
+show lahore fort on the map for me,navigate
+could you khuda hafiz,greeting
+Hey assistant start a voice call with my friend please,make_call
+i want to talk to the doctor,make_call
+PLEASE ALARM AT 4:45 PM,set_alarm
+Um turn the bathroom light off now,smart_home
+hey play the next song,play_music
+hey assistant can you how late is it in peshawar please,get_time
+ok turn on some music,play_music
+Ok will it rain tomorrow morning right now,get_weather
+um 20 divided by 80 asap,calculate
+Assistant i'm bored say something funny,tell_joke
+give me a laugh,tell_joke
+open the spotify website,open_website
+CONNECT ME WITH SARA,make_call
+could you lock the front door now,smart_home
+could you tell me a funny joke,tell_joke
+hey assistant can you ggoogle par pakistan independence day dhundo now,web_search
+I want to hear a joke,tell_joke
+Um open the whatsapp website please,open_website
+please switch on the lamp,smart_home
+OK I WANT TO OPEN SPOTIFY PLEASE,open_website
+cheer me up,tell_joke
+please set the thermostat to 25 degrees now,smart_home
+so send the meeting is at 5 to dad asap,send_message
+call the doctor on speaker now,make_call
+I WANT YOU TO GOOD NIGHT,greeting
+Hye add a new alarm for 8:30 in the evening,set_alarm
+send hamza a message thanks,send_message
+Where is home?,navigate
+assistant thanks asap,greeting
+um when was malala yousafzai born,web_search
+look up machine learning asap,web_search
+i want you to whatsapp john i reached home,send_message
+look up pakistan independence day please,web_search
+yo what's today's date please,get_time
+please wake me at noon for me,set_alarm
+hey set alarm 8:30 in the evening asap,set_alarm
+Ok heater on fro me,smart_home
+What's the forecast for this evening right now,get_weather
+what's 25 times 300,calculate
+ok what is nlp project ideas,web_search
+i want you to what's new now,greeting
+Hey assistant can you ali se baat karao asap,make_call
+ASSISTANT HOW MUCH IS 9 MINUS 12,calculate
+who are you for me?,greeting
+Could you set a 90 seconds timer,set_timer
+Throw on believer,play_music
+do i need an umbrella today now?,get_weather
+i want you to send good morning to my boss for me,send_message
+HEY START A TEN MINUTES TIMER NOW,set_timer
+ok find me recipe for biryani asap,web_search
+so find the way to the city center please,navigate
+hey assistant set alarm seven thirty now,set_alarm
+Bring on the rock now,play_music
+Visit gmail,open_website
+Ok timer start karo 30 seconds right now,set_timer
+please whatsapp uncle saying thanks for the help right now,send_message
+Assistant usman se baat karao asap,make_call
+hey assistant open youtube for me asap,open_website
+ok 30  seconds timer please,set_timer
+Ok make the room cooler,smart_home
+hey assistant can you unlock the door for me,smart_home
+yo tell me the current time right now,get_time
+hey assistant crack a joke asap,tell_joke
+so turn on some music,play_music
+Hey go to twitter website,open_website
+Could you shut off the living room lights,smart_home
+drop a text to dad thanks for the help,send_message
+please say something funny for me,tell_joke
+COULD YOU CALL CUSTOMER CARE AT 03451234567 ASAP,make_call
+Yo wake me up at 5 pm,set_alarm
+Mke me chuckle asap,tell_joke
+what's new asap,greeting
+send a message to ayesha saying thanks for the help,send_message
+hey set a reminder for this evening to call the plumber,set_reminder
+so can you time 20 mins for me,set_timer
+Hey assistant reminder attend the meeting at noon please,set_reminder
+Hey assistant send the doctor a message now,send_message
+Set my wakeup call for 6:45 am asap,set_alarm
+i want you to wake me at 6:15 now,set_alarm
+write a message to my brother for me,send_message
+Ok calculate 25 percent of 8 now,calculate
+ok the doctor ko phone lagao,make_call
+start a 45 minutes countdown asap,set_timer
+Hey assistant can you directions to faisal mosque for me,navigate
+UM I WANT TO LISTEN TO DANCE MONKEY,play_music
+route to faisal mosque right  now,navigate
+so send ali a message,send_message
+Could you see you now,greeting
+What's 144 times 80 asap,calculate
+salam kaise ho now,greeting
+Assalam o alaikum kaise ho thanks,greeting
+Direcitons to my office,navigate
+Ok tell me about benefits of exercise,web_search
+calculate 120 times 11,calculate
+SO KYA HAAL HAI,greeting
+Yo make the room cooler for me,smart_home
+um set my wakeup call for 4:45 pm,set_alarm
+hey assistant alarm at noon rightt now,set_alarm
+I want you to set a cooking timer for 30 seconds please,set_timer
+hey how many calories in an apple asap,web_search
+WHATSAPP MY WIFE CALL ME BACK NOW,send_message
+assistant wake me up tomorrow at 4:45 pm now,set_alarm
+5 pm ka alarm set karo asap,set_alarm
+Could you remind me to renew my passport,set_reminder
+So start reddit,open_website
+could you fatima ko whatsapp karo,send_message
+i want you to set a timer for 1 hour for me,set_timer
+dial +923331234567 right now,make_call
+I WANT YOU TO I FEEL LIKE LISTENING TO FADED RIGHT NOW,play_music
+HEY ASSISTANT CAN YOU PLEASE CALL ALI ASAP,make_call
+Yo is it sunny in istanbul right now,get_weather
+Hey assitsant connect me with ayesha now,make_call
+HOW'S YOUR DAY RIGHT NOW,greeting
+DIAL MY BROTHER PLEASE,make_call
+Scikit learn documentation ke bare mein search karo please,web_search
+hey assistant can you can you time 10 minutes for me,set_timer
+So can you turn off the kitchen lights,smart_home
+hey assistant look for machine earning online now,web_search
+yo unlock the door,smart_home
+ENTERTAIN ME NOW,tell_joke
+could you tell me the weather please,get_weather
+Hey start a 1 minute countdown,set_timer
+ok music please,play_music
+how are you right now,greeting
+um how's the weather today please,get_weather
+1200 plus 80 kitne hotay hain please,calculate
+so weather today,get_weather
+OK WHAT HOURR IS IT,get_time
+Hey assistant show centaurus mall on the map,navigate
+SO MUJHE YAAD DILANA KE GO TO THE GYM,set_reminder
+LIGHTS BAND KAR DO,smart_home
+play nusrat fath ali khan on youtube right now,play_music
+Calculate 75 percent of 250,calculate
+Could you where is giga mall,navigate
+hey assistant tell me the weather for me,get_weather
+Please compose a message for my friend thanks,send_message
+hey assistant can you why is benefits of exercise important,web_search
+Hey look up flask tutorial,web_search
+hey open stackoverflow,open_website
+Hey assistant can you joke please right now,tell_joke
+Hey assistant can you ring zainab up,make_call
+please call my boss on speaker,make_call
+Could you wake me at 6 in the morning,set_alarm
+Ok make a note to remind me to check my email please,set_reminder
+set a reminder for this evening to pay the electricity bill now,set_reminder
+Um lighten the mood with something funny,tell_joke
+I want you to load facebook,open_website
+Could you set a reminder to go to the gym right now,set_reminder
+ok dim the lights,smart_home
+Make me laugh please,tell_joke
+could you porch light on karo,smart_home
+hey assistant how do i write a resume now,web_search
+murree ka mausam batao for me,get_weather
+yo bring up stackoverflow asap,open_website
+could you hi thanks,greeting
+I want you to alarm for 8 o'clock tomorrow morning now,set_alarm
+Ok shut off the coffee maker for me,smart_home
+Wake me up at seven thirty for me,set_alarm
+i want you to kya aaj barish hogi right now,get_weather
+weather forecast for toronto for me,get_weather
+Hey assistant create a reminder for water the plants at 7 now,set_reminder
+hey assistant can you current time please for me,get_time
+Hey tell me naother joke,tell_joke
+Hey assistant give me directions to giga mall,navigate
+Drive me to the nearest hospital,navigate
+assistant 100 * 14 thanks,calculate
+hey assistant can you lock the front door,smart_home
+Set alarm 6:45 am for me,set_alarm
+um is it sunny in berlin right now,get_weather
+hey can you open amazon for me,open_website
+Yo set my wakeup call for 9 pm please,set_alarm
+Could you turn on the kitchen lights please,smart_home
+SO IS IT COLD OUTSIDE NOW,get_weather
+assistant what is 5 percent of 5,calculate
+call my friend on speaker thanks,make_call
+So joke please right now,tell_joke
+COULD YOU MEANING OF BEST LAPTOPS UNDER 1000 DOLLARS,web_search
+please ssearch for pakistan independence day now,web_search
+um i need an alarm at 3:15 pm now,set_alarm
+so how are tings thanks,greeting
+create a reminder for buy groceries at quarter to seven thanks,set_reminder
+PLEASE SET A COOKING TIMER FOR 10 MINUTES RIGHT NOW,set_timer
+Hey google drive open karo,open_website
+Send a message to usman saying i will be late,send_message
+hey assistant dad ko whatsapp karo thanks,send_message
+add a new alarm for 6 am thanks,set_alarm
+hey assistant 18 * 6 thanks,calculate
+ek joke sunao,tell_joke
+assistant set my wakeup call for 5:30 am,set_alarm
+ok wake me at quarter to seven asap,set_alarm
+Compose a message for zainab,send_message
+so is it already 10 pm,get_time
+UM ASSALAM O ALAIKUM KAISE HOTHANKS,greeting
+please schedule an alarm at half past six now,set_alarm
+Assistant count down from two minutes for me,set_timer
+Hey assistant can you i need a laugh,tell_joke
+Um i need a reminder to charge my phone  thanks,set_reminder
+hey turn it up a bit warmer for me,smart_home
+Ok aaj kya tareekh hai,get_time
+Hey crack a joke,tell_joke
+hey assistant reminder to renew my passport tomorrow please,set_reminder
+hey assistant start wikipedia asap,open_website
+Message bhejo my boss ko ke thans for the help,send_message
+HEY ASSISTANT CAN YOU IS IT GOING TO RAIN IN MURREE,get_weather
+Please create a reminder for buy groceries at half past six,set_reminder
+don't let me forget to study for the exam,set_reminder
+hey assistant play some relaxing music,play_music
+Hey assistant can you hello how are you,greeting
+Let the doctor know that let's meet at the cafe,send_message
+so pllease remind me to pay the electricity bill this weekend asap,set_reminder
+Hey assistant can you remind me to attend the meeting tomorrow asap,set_reminder
+ok turn on the geyser,smart_home
+could you can you play arijit singh,play_music
+assistant play the song perfect,play_music
+I want to wake up at 8 o'clock thanks,set_alarm
+put on nusrat fateh ali khan asap,play_music
+hey assistant is it cold outside asap,get_weather
+Ok route to centarus mall asap,navigate
+please what's the time,get_time
+please hello there asap,greeting
+COULD YOU MUJHE YAAD DILANA KE DRINK WATER THANKS,set_reminder
+I want you to mujhe 7 paar jagana,set_alarm
+Could you linkedin kholo now,open_website
+Call customer care at 0321 5551234 for me,make_call
+could you how do i get to the airport,navigate
+hey do you know any jokes please,tell_joke
+ok can you set an alarm for seven thirty right now,set_alarm
+Um catch you later,greeting
+Could you put on some lofi for me,play_music
+yo wha'ts 144 times 9,calculate
+I want you to who is bill gates now,web_search
+could you set the alarm 7 thanks,set_alarm
+Ok phone call to dad now,make_call
+YO WHO ARE YOU NOW,greeting
+um show me results for benefits of exercise,web_search
+hey assistant bathroom light jala do thanks,smart_home
+call my ali for me,make_call
+Yaad dilao call the bank on friday,set_reminder
+SO MAKE A CALL TO MOM NOW,make_call
+Could you timer start karo 45 seconds thanks,set_timer
+ok tell me the time,get_time
+Assistant start a voice call with my boss now,make_call
+weather in karachi,get_weather
+9 plus 3 kitne hotay hain thanks,calculate
+UM IS IT COLD OUTSIDE,get_weather
+Ok who are you for me,greeting
+Play blinding lights on youtube asap,play_music
+Um remind me to book tickets,set_reminder
+Lighten the mood with something funny right now,tell_joke
+lock the frontd oor asap,smart_home
+could you help right now,greeting
+Yo spotify open karo for me,open_website
+HOW FAR IS THE BEACH FOR ME,navigate
+Wake me up at 5:30 am for me,set_alarm
+Hey assistant can you open the wikipedia website,open_website
+time kya hua hai,get_time
+i want you to how do i tie a tie asap,web_search
+yo turn on the geyser asap,smart_home
+hey set the alarm 4 am asap,set_alarm
+Send ahmed a message,send_message
+yo i'm in the mood for jazz now,play_music
+assistant turn on some music asap,play_music
+SO HOW DO I GET TO THE UNIVERSITY,navigate
+Yo bring on the workout music,play_music
+ok get me up at 10 pm sharp,set_alarm
+Assistant 1200 divided by 2 right now,calculate
+Start the timer for 45 seconds,set_timer
+call my fatima asap,make_call
+yo kya aaj barish hogi thanks,get_weather
+um remind me to pay the electricity billp lease,set_reminder
+please how late is it now,get_time
+HEY WHAT IS THE TIME IN TORONTO,get_time
+Yo alarm at 6 in the morning for me,set_alarm
+yo take me to the github.com website thanks,open_website
+hey open gooogle now,open_website
+i want to know about pakistan independence day,web_search
+so get me up at 5:00 sharp asap,set_alarm
+Please wake me up at 9 pm,set_alarm
+Hey there,greeting
+i want you to who are you right now,greeting
+HEY ASSISTANT CAN YOU 50 + 9 FOR ME,calculate
+PLAY ME BELIEVER,play_music
+I want you to dial 03001234567 plese,make_call
+Could you find the way to badshahi mosque asap,navigate
+Hey send my wife a text i am on my way for me,send_message
+so set a 20 mins timer thanks,set_timer
+could you how long to get to the bus stand asap,navigate
+Hey assistant show f-10 markaz on the map now,navigate
+i want you to diretions to badshahi mosque,navigate
+Assistant find the way to the beach,navigate
+tell me another joke right now,tell_joke
+ASSISTANT I'D LIKE TO HEAR SOME CLASSICAL MUSIC,play_music
+get me up at quarter to seven sharp thanks,set_alarm
+assistant put a timer on for 45 seconds,set_timer
+I want you to alarm at 7:30 am please,set_alarm
+assistant timer start karo two minutes,set_timer
+REMIND ME ABOUT FEED THE CAT ON SATURDAY NOW,set_reminder
+could you find coffee shop near me asap,navigate
+Set the thermostat to 25 degrees,smart_home
+yo make me laugh right now,tell_joke
+What's new please,greeting
+i want you to compose a message for ali,send_message
+ok wake me at 9 pm,set_alarm
+I need a timer for an hour,set_timer
+get dad on the phone,make_call
+assistant add 120 and 2,calculate
+hey switch the llight on now,smart_home
+assistant alarm please for quarter to seven thanks,set_alarm
+could you bedroom light off,smart_home
+So what's today's date thanks,get_time
+Um entertain me,tell_joke
+What's the weather like in toronto,get_weather
+google par machine learning dhundo,web_search
+hey assistant can you connect me to ahmed,make_call
+HEY ASSISTANT YAAD DILAO GO TO THE GYM TOMORROW NOW,set_reminder
+SET A TIMER FOR A MINUTE FOR ME,set_timer
+YO PLAY SOMETHING RELAXING,play_music
+assistant give me directions to murree right now,navigate
+i want you to write a message to dad for me,send_message
+ok 12 - 55 asap,calculate
+Got any jokes now,tell_joke
+Hey assistant light on please,smart_home
+please gana chalao,play_music
+Divide 25 by 9,calculate
+um send a whatsapp message to uncle saying the meeting is at 5 asap,send_message
+What is 20 percent of 250 please?,calculate
+YO FIND ME PYTHON TUTORIALS THANKS,web_search
+i need an alarm at 5:00 now,set_alarm
+PLAY THE SONG LEVITATING,play_music
+please tell me the current time,get_time
+can you turn off the heater thanks?,smart_home
+Could you 3 0seconds ka timer lagao,set_timer
+UM FEED THE CAT KA REMINDER LAGAO NOW,set_reminder
+could you salam,greeting
+hey assistant what is 50 percent of 3 now,calculate
+hey assistant hello there now,greeting
+so start a three minutes timer for me,set_timer
+could you play music,play_music
+hey assistant play bohemian rhapsody on spotify,play_music
+Hey assistant let's hear nusrat fateh ali khan for me,play_music
+open reddit for me,open_website
+please wake me at 3:15 pm tomorrow thanks,set_alarm
+hey google par python tutorials dhundo for me,web_search
+could you tell me the weeather thanks,get_weather
+send an email to hamza saying i will be late please,send_message
+assistant how cold is it in islamabad tomorrow morning,get_weather
+gmail kholo for me,open_website
+dim the lights,smart_home
+so music chalao thanks,play_music
+SO ADD 144 AND 80 PLEASE,calculate
+assistant how many calories are in a slice of pizza thanks,web_search
+how do i get to badshahi mosque asap,navigate
+um good afternoon asap,greeting
+Hello asap,greeting
+don't let me forget to buy groceries please,set_reminder
+hey assistant start playing kesariya please,play_music
+144 - 11,calculate
+So put some punjabi songs on please,play_music
+hey assistant an hour timer please,set_timer
+assistant tellm e about best laptops under 1000 dollars please,web_search
+I want you to what is today now,get_time
+how late is it now?,get_time
+so google stock market today,web_search
+i want you to switch on the porch light,smart_home
+Please weather forecast for new york fr me,get_weather
+mujhe haaso asap,tell_joke
+so can you search history of the internet please,web_search
+i want to talk to bilal asap,make_call
+hey assistant reminder water the plants at seven thirty right now,set_reminder
+send my friend a text where are you,send_message
+Open facbook asap,open_website
+So play the song bohemian rhapsody,play_music
+7 plus 25 kitne hotay hain,calculate
+Hey assistant can you please wake me at 4:45 pm tomorrow asap,set_alarm
+ok wake me at seven thirty for me,set_alarm
+please shut off the heater thanks,smart_home
+hey assistant can you lighten the mood with something funny thanks,tell_joke
+So remind me in 40 seconds to call the bank please,set_reminder
+yo wake me up at 4:45 pm right now,set_alarm
+Please how's the weather today please,get_weather
+Stackoverflow par le jao right now,open_website
+HEY ASSISTANT CAN YOU SET A TIMER FOR 90 SECONDS,set_timer
+please timer start karo three minutes,set_timer
+I want you to turn off the lamp for me,smart_home
+um find me python tutorials,web_search
+yo can you set an aalarm for 11 am,set_alarm
+hey assistant can you what's the weather like in toronto,get_weather
+ok timer 45 minutes,set_timer
+hey assistant set a timer for 20 mins for me,set_timer
+Please divide 8 by 40,calculate
+could you how do i train a classifier,web_search
+ok i want to talk to ayesha right now,make_call
+take me to the google website now,open_website
+could you set a reminder to charge my phone,set_reminder
+Um call my john right now,make_call
+how far is f-10 markaz,navigate
+so how far is the train station right now,navigate
+Hey diim the lights right now,smart_home
+calculate 75 percent of 75 thanks,calculate
+calculate 25 percent of 12,calculate
+assistant murree ka rasta batao,navigate
+Assistant switch on the tv for me,smart_home
+Hey good evening,greeting
+can you open amazon asap?,open_website
+Please call ali on speaker,make_call
+could you schedule an alarm at 4:45 pm,set_alarm
+HEY WEATHER IN TORONTO,get_weather
+yo turn on the kitchen lights,smart_home
+Could you open insagram in a new tab,open_website
+Hey assistant can you 5 minutes timerplease for me,set_timer
+ok set a wake up alarm for 11 am,set_alarm
+Get hamza on the phone please,make_call
+temperature in tokyo right now please,get_weather
+Could you tell me a joke,tell_joke
+hey assistant can you how many calories are in a cup of rice please,web_search
+hey assistant can you shut off the geyser,smart_home
+bring up wikipedia,open_website
+so compose a message for john,send_message
+hey assistant nice to meet you,greeting
+PLEASE TELL ME ANOTHER JOKE,tell_joke
+remind me to water the plants,set_reminder
+hey assistant can you tell me the current time,get_time
+hey assistant can you wake me at 5:30 am,set_alarm
+assistant 20 * 16 thanks,calculate
+Tell hamza i reached home,send_message
+tell e the current time,get_time
+My friend ko call karo now,make_call
+Could you count down from one minute asap,set_timer
+Yo i want to talk to dad for me,make_call
+How many calories in a samosa,web_search
+I want to listen to tum hi ho,play_music
+mujhe yaad dilana ke book tickets,set_reminder
+Ok give bilal a call right now,make_call
+hey directions to faisal mosque now,navigate
+HEY ASSISTANT CAN YOU SAY A JOKE,tell_joke
+COULD YOU ROUTE TO MURREE,navigate
+hey assisant gana chalao,play_music
+buy milk ka reminder lagao,set_reminder
+set a timer for 45 seconds,set_timer
+Hey i want to wake up at 7 asap,set_alarm
+Is it already 4:45 pm,get_time
+So toronto mein kya time ho raha hai thanks,get_time
+search for stock market today,web_search
+TIMER START KARO A MINUTE,set_timer
+assalam o alaikum kaise ho asap,greeting
+how long to get to the city cenetr please,navigate
+drive me to the nearest hospital for me,navigate
+ok please turn the geyser on,smart_home
+hey assistant can you bring up stackoverflow,open_website
+turn on the living room lights asap,smart_home
+Set the alarm 5:00 for me,set_alarm
+please wake me up tomorrow at 5:30 am please,set_alarm
+Look u ppakistan independence day,web_search
+Assistant light band kar do thanks,smart_home
+Countdown 10 minutes,set_timer
+hey assistant solve 9 * 300 + 20 thanks,calculate
+how many calories are in a slice of pizza,web_search
+The beach ka rasta batao now,navigate
+yo ring dad,make_call
+Um can you play shape of you for me,play_music
+YO I WANT TO OPEN GITHUB.COM PLEASE,open_website
+umw hat hour is it,get_time
+hey schedule an alarm at 6:15,set_alarm
+Hey thanks a lot,greeting
+Hey,greeting
+please send an sms to zainab thanks,send_message
+HEY ASSISTANT IS IT GOING O RAIN IN DUBAI,get_weather
+WHAT'S THE DATE,get_time
+Bye,greeting
+COULD YOU SWITCH OFF THE COFFEE MAKER RIGHT NOW,smart_home
+please bring up facebook,open_website
+set a wake up call for 3:15 pm,set_alarm
+make me smile asap,tell_joke
+I want you to check the weather in islamabad right now,get_weather
+um send uncle a message,send_message
+Um aaj mausam kaisa hai for me,get_weather
+assistant weather forecast for rawalpindi please,get_weather
+ok visit reddit for me,open_website
+Will it rain tomorrow now?,get_weather
+Hey assistant can you my friend ko call karo asap,make_call
+hey assistant who won the capital of france,web_search
+SO ALARM LAGAO 8 O'CLOCK KA RIGHT NOW,set_alarm
+assistant send an sms to hassan,send_message
+Please cheer me up,tell_joke
+divide 3 by 3,calculate
+Say a joke,tell_joke
+yo ring uncle  up,make_call
+i want to listen to blinding lights for me,play_music
+Assistant what's the tie in sydney right now,get_time
+ok schedule an alarm at 5 pm asap,set_alarm
+Could you make me smile asap,tell_joke
+Can you turn off the bathroom light?,smart_home
+yo alarm for 5 pm tomorrow morning,set_alarm
+assistant make a call to uncle asap,make_call
+yo queue up dance monkey for me,play_music
+Assistant what's 5 times 30,calculate
+weather forecast for quetta,get_weather
+Could you show the airport on the map please,navigate
+yo coffee maker band karo asap,smart_home
+could you timer for 10 minutes,set_timer
+Text zianab,send_message
+so got any jokes asap,tell_joke
+assistant mujhe 7:30 am par jagana now,set_alarm
+hey assistant can you uncle ko call karo for me,make_call
+send a message to zainab saying i reached home,send_message
+search the web for best laptops under 1000 dollars thanks,web_search
+Hey uncle ko call karo now,make_call
+please buy milk ka reminder lagao asap,set_reminder
+yo tell me about python tutorials now,web_search
+hey assistant schedule an alarm at midnight please,set_alarm
+hey assistant give me a laugh asap,tell_joke
+ok how do i reset a router,web_search
+hey assistant can you mujhe yaad dilana ke buy milk for me,set_reminder
+OK WHAT'S THE WEATHER ON FRIDAY FOR ME,get_weather
+ok switch on the coffee maker,smart_home
+i want you to bye,greeting
+Assistant air conditioner jala do,smart_home
+ok multiply 1200 by 16 thanks,calculate
+so is it past noon yet,get_time
+yo hello now,greeting
+Ok how to cook rice fo me,web_search
+ok note a reminder to attend the meeting at seven thirty for me,set_reminder
+75 * 10 please,calculate
+Ali ko message bhejo good morning now,send_message
+start a 20 mins timer,set_timer
+how to lose weight please,web_search
+SEARCH FOR BEST LAPTOPS UNDER 1000 DOLLARS NOW,web_search
+So can you call hamza,make_call
+i want you to map of my office right now,navigate
+ok nearest supermarket thanks,navigate
+hey please turn the ac on right now,smart_home
+find petrol pump near me for me,navigate
+Ok set a recurring alarm for11 am every weekday please,set_alarm
+so how do i write a resume,web_search
+HEY ASSISTANT CAN YOU HEY THERE NOW,greeting
+could you i'm bored say something funny please,tell_joke
+could you what time is it in syndey,get_time
+i want you to please turn the bedroom light on thanks,smart_home
+Yo mujhe the airport jana hai,navigate
+ok what's the time for me,get_time
+um make me laugh please,tell_joke
+I want you to find me tutorials on latest news right now,web_search
+Lock the door right now,smart_home
+ok play my favorite songs,play_music
+PLEASE ADD A NEW ALAR FOR 7,set_alarm
+I WANT YOU TO SAY A JOKE PLEASE,tell_joke
+can you play shape of you for me?,play_music
+I want you towhere is lahore fort thanks,navigate
+Please make a note to remind me to charge my phone,set_reminder
+hey assistant find m best laptops under 1000 dollars thanks,web_search
+So can you time two minutes for me,set_timer
+I want you to make sure i wake up at 4 am,set_alarm
+hey assistant can you what's the weather like in murree right now,get_weather
+hey assistant can you multan ka mausam batao asap,get_weather
+ok open daraz,open_website
+timer start karo 2 hours,set_timer
+Hey open gmail,open_website
+switch off the light for me,smart_home
+PLEASE CALL USMAN RIGHT NOW,make_call
+um create a reminder for drink water at 8 o'clock,set_reminder
+I want you to coffee maker jala do thanks,smart_home
+divide 36 by 3 thanks,calculate
+i want you to cheer me up asap,tell_joke
+Text bilal,send_message
+ok 7:30 am ka alarm set karo asap,set_alarm
+Hey assistant faisalabad ka mausam abtao,get_weather
+hey assistant can you what's up thanks,greeting
+I want you to please call john asap,make_call
+yo remind me to take my medicine,set_reminder
+assistant open my stackoverflow asap,open_website
+assistant turn on the bathroom light please,smart_home
+bedoom light band karo for me,smart_home
+please make a note to remind me to call the plumber,set_reminder
+um add a reminder drink water,set_reminder
+i want you to please remind me to renew my passport this weekend,set_reminder
+hey assistant music chalao for me,play_music
+assistant tell me the date and day now,get_time
+bedroom light off,smart_home
+i want you to 5 ko 4 se multiply karo thanks,calculate
+ok 20 mins timer please,set_timer
+Hey assistant can you compose a message for dad now,send_message
+so tell me a random joke,tell_joke
+yo wakee me up tomorrow at midnight,set_alarm
+hey assistant let me hear some punjabi songs while i work asap,play_music
+NEAREST BANK KAHAN HAI THANKS,navigate
+yo multan ka mausam batao now,get_weather
+could you find the way to f-10 markaz,navigate
+um 18 divided by 10,calculate
+see you,greeting
+so set a recurring alarm for 5 pm every weekday,set_alarm
+Assistant make me chuckle now,tell_joke
+15 * 300 asap,calculate
+Hey pull up kaggle,open_website
+play tum hi ho asap,play_music
+How many calories are in a banana,web_search
+hey assistant can you how do i get to my office,navigate
+I want you to do you know the time for me,get_time
+HEY ASSISTANT CAN YOU 36 X 125,calculate
+what day is it today please?,get_time
+yo time kya hua hai,get_time
+assistant phone call to hamza right now,make_call
+hey assistant can you give the doctor a call,make_call
+Yo set a 45 minutes timer now,set_timer
+Cheer me up with a joke,tell_joke
+Hey assistant what is the time in murree asap,get_time
+please call ahmed on speaker,make_call
+please set a timer for a minute now,set_timer
+hey assistant start the timer for 10 minutes lpease,set_timer
+hey assalam o alaikum please,greeting
+nearest supermarket now,navigate
+hey assistant what can you do for me,greeting
+i want you to mujhe hasao asap,tell_joke
+could you open the reddit website,open_website
+Weather forecast for islamabad,get_weather
+hey assistant can you what does history of the internet mean,web_search
+could you can you turn off the air conditioner asap,smart_home
+Yo pull up youtube,open_website
+assistant add 18 and 125,calculate
+yaad dilao submit the assignment this evening,set_reminder
+so 40 seconds ka timer lagao now,set_timer
+SEE YOU LATER,greeting
+please will it rain onsaturday thanks,get_weather
+25 divided by 40 thanks,calculate
+um turn off the ac,smart_home
+porch light on karo,smart_home
+do i need an umbrella today thanks?,get_weather
+so make me smile now,tell_joke
+Could you what is 15 percent of 1200 right now,calculate
+please please wake me at 7:30 am tomorrow please,set_alarm
+bring on the punjabi songs,play_music
+i want you to hey tere,greeting
+hey assistant what's the difference between flask tutorial and tea and coffee now,web_search
+So set timer 20 mins right now,set_timer
+i want you to bilal ko whatsapp karo,send_message
+how cold is it in faisalabad tomorrow morning for me?,get_weather
+so queue up ed seeran please,play_music
+Um hello how are you right now,greeting
+hey assistant can you what is 3 plus 10 asap,calculate
+hey assistant can you how cold is it in peshawar on friday thanks,get_weather
+so hello there,greeting
+I want you to search about quaid e aam,web_search
+REMINDER TO BUY MILK TOMORROW,set_reminder
+Um dim the lights thanks,smart_home
+will it rain tomorrow morning thanks,get_weather
+ok pull up github,open_website
+i want you to set a reminder to book tickets,set_reminder
+i want you to make me smile now,tell_joke
+Hey music please for me,play_music
+yo 500 - 2 rright now,calculate
+put a timer on for 1 hour,set_timer
+UM SHUKRIYA PLEASE,greeting
+so is it past 6:15 yet thanks,get_time
+so how do i lose weight,web_search
+UM DIFFERENCE BETWEEN TCP AND UDP FOR ME,web_search
+Yo play some tunes asap,play_music
+send an sms to zainab asap,send_message
+Hey assistant 250 plus 4 kitn ehotay hain for me,calculate
+so switch on the bathroom light right now,smart_home
+Hey assistant can you nearest mosque kahan hai,navigate
+ASSISTANT GIVE ME A LAUGH,tell_joke
+Could you tell me the date and day for me,get_time
+who are you?,greeting
+could you can you time onne minute for me,set_timer
+Please 5 divided by 7,calculate
+i'd like to hear some punjabi songs for me,play_music
+Lock the door,smart_home
+assistant can you time three minutes for me please,set_timer
+please count down from 10 minutes now,set_timer
+Don't let me forget to go to the gym now,set_reminder
+hey assistant can you bring up linkedin,open_website
+closest atm to me,navigate
+could you tell me a funny joke thanks,tell_joke
+um ac band karo right now,smart_home
+Hey assistant 25 minus 40 equals thhanks,calculate
+Weather forecast for paris,get_weather
+SO CALL BILAL ON SPEAKER,make_call
+What's 64 times 30 thanks,calculate
+so what is 25 plus 125,calculate
+Hey assistant can you please call ahmed,make_call
+could you weather in new york please,get_weather
+um call ahmed now,make_call
+um time kya hua hai,get_time
+Can you open googl efor me?,open_website
+Yo wake me up at quarter to seven,set_alarm
+OK CAN YOU TIME 10 MINUTES FOR ME,set_timer
+Tell me the weather thanks,get_weather
+tell me a dad joke right now,tell_joke
+um greetings thaanks,greeting
+20 / 7 please,calculate
+um shukriya asap,greeting
+6:15 ka alarm set karo,set_alarm
+HEY ASSISTANT WHAT TIME IS IT,get_time
+hey assistant how do i get to the university right now,navigate
+Could you set the ac to 20,smart_home
+time now,get_time
+please give me directions to the train station right now,navigate
+LET ME HEAR SOME RELAXING MUSIC WHILE I WORK FOR ME,play_music
+Please geyser band karo or me,smart_home
+coffee maker off,smart_home
+hey assistant can you create an alarm for 10 pm asap,set_alarm
+hey set a cooking timer for 30 seconds for me,set_timer
+assistant thank you,greeting
+hey assistant call my hassan asap,make_call
+COULD YOU BADSHAHI MOSQUE KA RASTA BATAO,navigate
+Ok closest hospital to me thanks,navigate
+i want you to take care,greeting
+route to the bus stand,navigate
+couuld you set a 1 hour timer,set_timer
+Yo create a reminder for drink water at 6:15 for me,set_reminder
+please give me a laugh thanks,tell_joke
+add a new alarm for 8 o'clock now,set_alarm
+Ok tell bilal i am on my way,send_message
+Yo create a reminder for water the plants at midnight asap,set_reminder
+ok drive me to the university,navigate
+UM KITCHEN LIGHTS BAND KARO PLEASE,smart_home
+hey assistant can you play the song coke studio,play_music
+assistant i want to call ali now,make_call
+yo 25 + 300,calculate
+um what is 100 plus 2,calculate
+OK WHAT IS THE TEMPERATURE IN FAISALABAD PLEASE,get_weather
+Um compose a message for mom,send_message
+yo what is the time in berlin thanks,get_time
+show me results for latest news right now,web_search
+I want you to mujhe yaad dilana ke buy groceries,set_reminder
+IS IT ALREADY 5 PM THANKS,get_time
+hey assistant can you phone call to ahmed,make_call
+can you search capital of france onw?,web_search
+ok add a new alarm for half past six right now,set_alarm
+hey assistant can you how do i reset a router,web_search
+assistant koi latifa sunao,tell_joke
+250 + 125 now,calculate
+So wake me at 6:15 asap,set_alarm
+hey assistant text hamza i reached home now,send_message
+um temperature in berlin right now,get_weather
+yo i want to call bilal,make_call
+pleease 90 seconds ka timer lagao,set_timer
+remind me about book tickets today now,set_reminder
+can you search machine learning right now?,web_search
+hey feed the cat ka reminder lagao now,set_reminder
+CHECK THE WEATHER IN ISLAMABAD,get_weather
+i want you to shhow giga mall on the map,navigate
+hey assistant take me to the chatgpt website please,open_website
+kill the light,smart_home
+hey asssistant play my favorite songs,play_music
+ok start a 30 seconds countdown,set_timer
+Assistant how are things,greeting
+gmail par le jao,open_website
+Yo set an alarm for 6:15 asap,set_alarm
+so what is the time in istanbul now,get_time
+Assistant phone call to hamza,make_call
+what's the weather today,get_weather
+yo mujhe the university jana hai thanks,navigate
+Reminder drink water at 6:45 am for me,set_reminder
+Hey assistant reminder to buy groceries on friday asap,set_reminder
+i want to listen to lofi beats,play_music
+what is the temperature in berlin,get_weather
+Hey lock the door please,smart_home
+THE TRAIN STATION KA RASTA BATAO FOR ME,navigate
+ok make me smile for me,tell_joke
+i need a timer for 30 seconds now,set_timer
+Mujhe the train station jana hai thanks,navigate
+mom ko message bhejo where are you,send_message
+so reminder to go to the gym next monday thanks,set_reminder
+could you set a reminder to buy groceries,set_reminder
+Where is f-10 markaz asap?,navigate
+set my alarm to midnight,set_alarm
+COULD YOU WHAT'S THE DIFFERENCE BETWEEN SCIKIT LEARN DOCUMENTATION AND JAVA,web_search
+Set a reminder to book tickets please,set_reminder
+hey assistant open github in a new tab asap,open_website
+how much is 75 minus 3?,calculate
+I WANT YOU TO I NEED A TIMER FOR TEN MINUTES,set_timer
+hey assistant can you when was immran khan born thanks,web_search
+UM TIMER FOR THREE MINUTES ASAP,set_timer
+12 - 6,calculate
+yo tell me a dad joke now,tell_joke
+hey assistant youtube.com par le jao,open_website
+assistant tell me the current time right now,get_time
+OK MUJHE THE NEAREST HOSPITAL JANA HAI PLEASE,navigate
+can you set an alarm for 8:30 in the evening now,set_alarm
+Could you what's the weather today,get_weather
+I want to know about iphone price,web_search
+i want you to call customer care at 03451234567,make_call
+Don't let me forget to drink water asap,set_reminder
+can you set an alarm for 6:45 am for me,set_alarm
+SO KAGGLE OPEN KARO THANKS,open_website
+GIVE FATIMA A CALL,make_call
+i want you to who is alan turing right now,web_search
+Visit twitter,open_website
+Could you tell my boss the meeting is at 5,send_message
+Text my bss for me,send_message
+Ok an hour ka timer lagao for me,set_timer
+hey assisttant can you phone ahmed,make_call
+I NEED AN ALARM AT 6:45 AM,set_alarm
+Turn  on some music right now,play_music
+hey i want to open youtube.com,open_website
+hey assistant what is 36 plus 2,calculate
+divide 1200 by 30,calculate
+Assistant will it rain tomorrow thanks,get_weather
+i want you to check the weather in istanbul,get_weather
+hey assistant mujhe yaad dilana ke buy groceries for me,set_reminder
+COULD YOU TAKE ME TO MURREE THANKS,navigate
+Hey assistant start a three minutes timer,set_timer
+Start a voice call with ali right now,make_call
+How to train a classifier,web_search
+Connect me with bilal asap,make_call
+ok what hour is it asap,get_time
+i watn you to find best laptops under 1000 dollars,web_search
+hey assistant can you crack a joke right now,tell_joke
+um closest supermarket to me right now,navigate
+Please show me the route to my office right now,navigate
+hey is it going to rain in karachi,get_weather
+Please turn on some music please,play_music
+um fan on karo ight now,smart_home
+ok set  alarm 6:45 am asap,set_alarm
+is it cold outside thanks,get_weather
+Ring the doctor thanks,make_call
+hey assistant can you search about imran khan,web_search
+yo switch on the ac,smart_home
+how long to get to the train station,navigate
+get me up at 4:45 pm sharp,set_alarm
+Yo fan band karo,smart_home
+OK PLAY PUNJABI SONGS ON SPOTIFY THANKS,play_music
+is it cold outside?,get_weather
+How hot is it in multan asap,get_weather
+hey assistant can you what is 8 plus 55 now,calculate
+OK MAKE TTHE ROOM COOLER RIGHT NOW,smart_home
+MUJHE THE BEACH JANA AI,navigate
+assistant alarm please for 7 right now,set_alarm
+Um message bilal that the meeting is at 5 asap,send_message
+ok txt bilal i am on my way,send_message
+hey assistant gana chalao thanks,play_music
+hey assistant can you open the chatgpt website for me,open_website
+bathroom light band kar do,smart_home
+closest hospital to me asap,navigate
+Set timer 45 minutes,set_timer
+could you set the thermostat to 26 degrees now,smart_home
+please start kagggle please,open_website
+Timer 2 hours,set_timer
+Ok nice to see you asap,greeting
+so is it past 5 pm yet right now,get_time
+could you put on some pop music please,play_music
+um take me to faisal mosque,navigate
+could you couldy ou put on some rock,play_music
+um set the alarm quarter to seven right now,set_alarm
+Make me smile,tell_joke
+yo start my workout playlist asap,play_music
+so what is the date today,get_time
+Hey google par howw photosynthesis works dhundo,web_search
+hey assistant make sure i wake up at 6:45 am right now,set_alarm
+What's the time for me,get_time
+set a 90 seconds timer please,set_timer
+Hey entertain me,tell_joke
+ok shut off the porch light,smart_home
+could you how's the weather today now,get_weather
+HEY MAKE THE ROOM COOLER,smart_home
+hey assistant can you set a reminder for this evening to take my medicine,set_reminder
+hey begin a timer of three minutes asap,set_timer
+please what's today's date asap,get_time
+open reddit in a new tab thanks,open_website
+assistant search images of albert einstein now,web_search
+Ok what is the temperature in tokyo please,get_weather
+hey assstant how late is it in peshawar,get_time
+Yo tell me the weather for me,get_weather
+timer 30 seconds asap,set_timer
+ASSISTANT FIND BANK NEAR ME,navigate
+I want you to what's the weather next monday please,get_weather
+Please what's today's date,get_time
+hey time check,get_time
+please call zainab,make_call
+ok blast bad guy please,play_music
+could youu give me a laugh,tell_joke
+Visit wikipedia asap,open_website
+UM MAKE ME SMILE RIGHT NOW,tell_joke
+yo start a 15 minutes timer,set_timer
+so st the thermostat to 24 degrees please,smart_home
+Could you tturn on the ac right now,smart_home
+switch on the fan asap,smart_home
+Hey alamr please for 5:30 am thanks,set_alarm
+give me directions to badshahi mosque for me,navigate
+hey assistant can yu make a call to ahmed thanks,make_call
+I want you to can you set an alarm for seven thirty asap,set_alarm
+How much is 250 minus 6 now,calculate
+tell me a dad joke for me,tell_joke
+please coffee maker on please,smart_home
+living room lights off please,smart_home
+YO CONNECT ME TO MOM,make_call
+Assistant what hour is it in rawalpindi,get_time
+put a timer on for 15 minutes thanks,set_timer
+Bedroom light band kar do thanks,smart_home
+Route to my office right now,navigate
+thank you,greeting
+um add a new alarm for 10 pm,set_alarm
+what is today,get_time
+um how hot is it in paris,get_weather
+PLEASE SALAM FOR ME,greeting
+assistant who is albert einstein asap,web_search
+start the timer for two minutes asap,set_timer
+check the weather in peshawar now,get_weather
+please add a reminder drink water for me,set_reminder
+please call mom asap,make_call
+start a voice call with usman,make_call
+whatsapp fatima dinner is ready right now,send_message
+Please timer for 20 mins thanks,set_timer
+i want you to how much is 18 minus 11,calculate
+Tell me the weather,get_weather
+i want you to let me hear some bollywood songs while i work,play_music
+ok i need a laugh thanks,tell_joke
+Joke please,tell_joke
+Yo set the thermostat to 25 degrees,smart_home
+show me the istanbul weather please,get_weather
+Hey can you open google,open_website
+assistant kill the bedroom light right now,smart_home
+DO YOU KNOW THE TIME?,get_time
+so hello how are you,greeting
+drive me to giga mall for me,navigate
+so how far is centaurus mall right now,navigate
+phone call to fatima please,make_call
+hey assalam o alaikum,greeting
+Pull up wikipedia now,open_website
+ok navigate to the airport asap,navigate
+HEY DIVIDE 8 BY 2,calculate
+yo nearest bank kahan hai,navigate
+Look for how photosynthesis works online thanks,web_search
+ok current time please please,get_time
+HOW LATE IS IT IN TORONTO?,get_time
+Could you reminder drink water at 6 in the morning thanks,set_reminder
+My wife se baat karao,make_call
+ok add 75 and 55 lease,calculate
+ok tell ayesha where are you,send_message
+please how far is the bus stand thanks,navigate
+yo nearest atm kahan hai now,navigate
+hey assistant please turn the living room lights on,smart_home
+YO DO YOU KNOW ANY JOKES,tell_joke
+ok send an sms to the doctor thanks,send_message
+Hey assistant closest atm to me asap,navigate
+Hey assistant solve 5 * 10 + 20 now,calculate
+Could you what's new for me,greeting
+Hey assistant can you why is tf idf explained important please,web_search
+hey time check for me,get_time
+Um start a voice calll with sara,make_call
+visit github.com please,open_website
+bring up youtube right now,open_website
+create a reminder for book tickets at noon thanks,set_reminder
+please whatsapp paar le jao thanks,open_website
+hey assistant can you bring up kaggle for me,open_website
+Nearest pharmacy,navigate
+hey assistant can you how much is 2 minus 80,calculate
+ASSISTANT ADD A NEWALARM FOR 4:45 PM PLEASE,set_alarm
+yo find me latest news,web_search
+hey let me hear some rock while i work,play_music
+So work out 64 plus 40,calculate
+ASSISTANT CALL 0300 1112223 NOW,make_call
+yo drop a text to the doctor i will be late for me,send_message
+HEY OPEN INSTAGRAM ASAP,open_website
+could you what's 9 times 125,calculate
+Um give my friend a call,make_call
+ok what''s the weather like in london for me,get_weather
+So take me to the reddit website please,open_website
+ASSISTANT PLYA MUSIC,play_music
+so shuffle my playlist for me,play_music
+um set alarm 11 am,set_alarm
+um reminder to attend the meeting tomorrow morning,set_reminder
+Hey rigt now,greeting
+yo good evening now,greeting
+HEY ASSISTANT THANK YOU,greeting
+ok lock the door please,smart_home
+please visit google drive thanks,open_website
+so i want to talk to john right now,make_call
+Open the stackoverflow website,open_website
+What time is it in new york now?,get_time
+I WANT YOU TO HEY,greeting
+Long time no see for me,greeting
+how many calories are in a slice of pizza right now,web_search
+could you search stock market today on google for me,web_search
+see you later thanks,greeting
+yo call uncle on speaker,make_call
+text hamza good  morning,send_message
+turn it up a bit warmer,smart_home
+set an alarm for half past six,set_alarm
+so tell usman see you tomorrow asap,send_message
+Closest hospital to me please,navigate
+Closest atm to me please,navigate
+Assistant cheer me up,tell_joke
+lighten the mood with something funny please,tell_joke
+how is it going?,greeting
+text aali,send_message
+hey assistant what hour is it for me,get_time
+Load google drive right now,open_website
+Bye right now,greeting
+set my aalarm to 3:15 pm for me,set_alarm
+I want you to search about imran khan please,web_search
+Drop a text to uncle dinner is ready thanks,send_message
+yo open github.com for me right now,open_website
+i want you to start my workout playlist now,play_music
+i want you to dial 03001234567,make_call
+Hey assistant can you how late is it,get_time
+look for nlp project ideas online thanks,web_search
+um time kya hua hai thanks,get_time
+Um calculate 75 times 25 please,calculate
+i want you to how cold is it in islamabad on saturday,get_weather
+um phone call to bilal,make_call
+blast bohemian rhapsody,play_music
+aaj mausam kaisa hai for me,get_weather
+hey assistant square root of 7 for me,calculate
+Ok yaad dilao attend the meeting today for me,set_reminder
+Yo i want to open facebook now,open_website
+make sure i wake up at quarter to seven thanks,set_alarm
+Message my wife that let's meet at the cafe,send_message
+launch youtube right now,open_website
+Set a reminder to renew my passport,set_reminder
+solve 100 * 55 + 2,calculate
+Could you see you thanks,greeting
+um note a reminder to book tickets at 4:45 pm,set_reminder
+um check the weather in murree asap,get_weather
+hey assistant shuffle my playlist,play_music
+hey assistant can you play some tunes,play_music
+Ok send i am on my way to the doctor for me,send_message
+so time check,get_time
+Subtract 55 from 12 asap,calculate
+Ok how far is murree,navigate
+yo turn the air conditioner off now,smart_home
+Assistant what is flask tutorial,web_search
+i want you to route to murree for me,navigate
+Divide 50 by 9 thanks,calculate
+Um send an email to my friend saying happy birthday,send_message
+what hour is it in toronto please?,get_time
+how is it going right now,greeting
+hey assistant unlock the door,smart_home
+ok music chalao asap,play_music
+could you message my boss that see you tomorrow,send_message
+hey help,greeting
+Send happy birthday to usman,send_message
+Hey assistant time check thanks,get_time
+PLEASE CALL MOM ON SPEAKER FOR ME,make_call
+UM KILL THE GEYSER,smart_home
+Load github.com,open_website
+ok wwrite a message to sara,send_message
+HEY ASSISTANT CAN YOU SET THE AC TO 20,smart_home
+what hour is it now?,get_time
+hey set alarm half past six,set_alarm
+Hey entertain me please,tell_joke
+turn off the fan thanks,smart_home
+hey alarm please for 5 pm please,set_alarm
+yo nice to see you asap,greeting
+queue up bad guy please,play_music
+ok timer for 90 seconds now,set_timer
+ASSISTANT LOOK UP CRICET SCORES PLEASE,web_search
+can you search benefits of exercise please?,web_search
+Begin a timer of 30 seconds now,set_timer
+Hey tell me the date and day,get_time
+abhi kitne baje hain asap?,get_time
+could you please wake me at 5:00 tomorrow thanks,set_alarm
+PLEASE WHY IS BITCOIN PRICE IMPORTANT,web_search
+Could ou set a reminder to study for the exam,set_reminder
+dad ko message bhejo thanks for the help,send_message
+could you ac on karo now,smart_home
+ok text my brother see you tomorrow asap,send_message
+could you search images of benefits of exercise thanks,web_search
+OK BAD GUY SUNAO,play_music
+could you temperaturein sydney right now,get_weather
+SO MAKE THE ROOM COOLER NOW,smart_home
+How arre you?,greeting
+ok compute 144 plus 300 minus 1 asap,calculate
+please call my wife tahnks,make_call
+HEY ASSISTANT CAN YOU INSTAGRAM OPEN KARO,open_website
+Please thank you please,greeting
+So please wake me at noon tomorrow please,set_alarm
+Ali se baat karao,make_call
+i want to wake up at 4 am,set_alarm
+36 plus 6 kitne hotayh ain,calculate
+so bring up facebook asap,open_website
+hey tell me the current time asap,get_time
+hey assistant can you phone ali thanks,make_call
+Um who won the history of the internet right now,web_search
+could you set a timer for 10 minutes,set_timer
+Play my favorite songs right now,play_music
+could you please remind me to submit the assignment tomorrow morning for me,set_reminder
+hey assistant what's 120 multiplied by 4 right now,calculate
+50 plus 6 kitne hotay hain,calculate
+open instagram for me,open_website
+Alarm at 6 in the morning,set_alarm
+how d i get to home for me?,navigate
+set a cooking timer for 15 minutes,set_timer
+I want you to calculate 5 timees 2 right now,calculate
+please show me the route to f-10 markaz please,navigate
+I want you to who won the latest news,web_search
+I want you to hassan ko whatsapp karo,send_message
+i want you to nearest coffee shop kahan hai,navigate
+hi please,greeting
+hey assistant can you compose a message for ahmed,send_message
+let bilal know that the meeting is at 5 thanks,send_message
+hey assistant can you facebook open karo right now,open_website
+what hour is it in faislabad,get_time
+Hey assistant can you weather in multan,get_weather
+45 minutes timer please now,set_timer
+time now right now,get_time
+could you tokyo ka mausam batao,get_weather
+route to giga mall thanks,navigate
+hey assistant let mom know that i'll be there in ten minutes,send_message
+I want you to remind me in 5 minutes to renew my passport please,set_reminder
+could you ring my boss up thanks,make_call
+could you turn on the geyser asap,smart_home
+Ok ac on,smart_home
+yo unlock the door asap,smart_home
+Set a reminder for tonight to call the plumber,set_reminder
+Send an email to mmy wife saying i will be late,send_message
+SO SEND A MESSAGE TO AHMED SAYING CALL ME BACK,send_message
+yo count down from 90 seconds please,set_timer
+please tell me another joke right now,tell_joke
+PLEASE HOW DO I GET TO THE BEACH NOW,navigate
+could you what is the temperature in multan thanks,get_weather
+hey i  want to hear a joke,tell_joke
+Thanks please,greeting
+ASSISTANT ADD A NEW ALARM FOR 4 AM,set_alarm
+hey assistant can you what is the temperature in quetta asap,get_weather
+ASSISTANT BYE,greeting
+ok open wikipedia in a new tab thanks,open_website
+Um thanks a lot thanks,greeting
+yo what is 9 plus 40,calculate
+hey will it rain on friday thanks,get_weather
+Please navigate to my office please,navigate
+assistant mujhe 5:00 par jagana,set_alarm
+route to the nearest hospital,navigate
+call mom on speaker,make_call
+please open instagram in a new tab thanks,open_website
+tell me a funny joke,tell_joke
+SO MUJHE YAAD DILANA KE CHECK MY EMAIL NOW,set_reminder
+Hey assistant can you play blinding lights on spotify,play_music
+UM SET THE AC TO 18,smart_home
+Find the way to faisal mosque,navigate
+current date now,get_time
+Could you how's the weather today right now,get_weather
+Ok do i need an umbrella today now,get_weather
+um set a timer for half an hour,set_timer
+Timer two minutes,set_timer
+Could you go to twitter website now,open_website
+ok i want to listen to nusrat fateh ali khan right now,play_music
+could you visit netflix asap,open_website
+Assistant phone ali for me,make_call
+is it sunny in dubai?,get_weather
+make a call to hamza,make_call
+ASSISTANT WAKE ME AT 4 AM NOW,set_alarm
+Ok how to train a classifieer now,web_search
+so what day is it today,get_time
+Alarm please for quarter to seven,set_alarm
+Um set my alarm to 4 am,set_alarm
+call the doctor please,make_call
+Bring up github asap,open_website
+um set timerone minute asap,set_timer
+I want you to i need a reminder to check my email please,set_reminder
+Start a 45 minutes timer right now,set_timer
+assistant how many calories in a cup of rice for me,web_search
+18 divided by 125,calculate
+um square root of 1200,calculate
+i want you to take care right now,greeting
+um what time is it in multan please,get_time
+HEY ASSISTANT WEATHER TODAY,get_weather
+add a new alarm for 4 am,set_alarm
+yo nusrat fateh ali khan sunao asap,play_music
+ok remind me to charge my phone tonight,set_reminder
+so kill the tv right now,smart_home
+could you send my friend a message please,send_message
+i need an alarm at half past six please,set_alarm
+Hey assistant i want to talk to john right now,make_call
+assistant switch on the geyser,smart_home
+make me smile please,tell_joke
+hey assistant can you 36 + 10 asap,calculate
+so reminder to take my medicine next monday for me,set_reminder
+hey assistant start a 5 minutes countdown,set_timer
+please call customer care at 0300 1112223 thanks,make_call
+um count down from  half an hour,set_timer
+ok play believer on spotify,play_music
+what's the timee in karachi right now asap,get_time
+bring up wikipedia asap,open_website
+So salam,greeting
+ok set a reminder for on friday to submit the assignment now,set_reminder
+How's the weather today,get_weather
+assistant send a message to ayesha saying thanks for the help now,send_message
+i want you to assalam o alaikum kais eho,greeting
+ctach you later,greeting
+Could you search images of capital of france,web_search
+send a whatsapp message to usman saying where are you,send_message
+hey don't let me forget to attend the meeting,set_reminder
+hey assistant can you hamza se baat karao,make_call
+So ood afternoon,greeting
+ok start the timer for one minute,set_timer
+So timer start karo ten minutes,set_timer
+5 MINUTES A TIMER LAGAO,set_timer
+open github.com for me now,open_website
+drop a text to sara dinner is ready thanks,send_message
+UM REMIND ME TO ATTEND THE MEETING AT QUARTER TO SEVEN ASAP,set_reminder
+Search the web for albert einstein,web_search
+so coffee maker band kar do,smart_home
+hey assistant can you what is the date today please,get_time
+AAJ KYA TAREEKH HAI RIGHT NOW,get_time
+is it going to ran in islamabad right now,get_weather
+YO RING MOM,make_call
+45 miuntes ka timer lagao,set_timer
+um new york mein kya time ho raha hai for me,get_time
+so 7 + 30 right now,calculate
+yo tell me the weather right now,get_weather
+reminder to take my medicine this evening,set_reminder
+Hey assistant switch the air conditioner on,smart_home
+PLEASE SET TIMER THREE MINUTES ASAP,set_timer
+SWITCH OFF THE COFFEE MAKER,smart_home
+please throw on blinding lights now,play_music
+Please timer for two minutes right now,set_timer
+subah noon baje alarm lago asap,set_alarm
+alarm lagao seven thirty ka,set_alarm
+hey my wife ko message bhejo the meeting is at 5 thanks,send_message
+ok weather in toronto please,get_weather
+Please open my whatsapp now,open_website
+Hey let's hear coke studio,play_music
+TAKE ME TO THE KAGGLE WEBSITE ASAP,open_website
+i want you to put a timer on for three minutes right now,set_timer
+i want you to tell mme another joke,tell_joke
+hey see you,greeting
+Send an email to ayesha saying the meeting is at 5 right now,send_message
+joke pleease thanks,tell_joke
+Hey assistant can you show me the route to the university for me,navigate
+Could you visit kaggle thanks,open_website
+hey assistant can you google par how photosynthesis works dhundo now,web_search
+so my friend ko whatsapp karo,send_message
+Show me results for python tutorials,web_search
+Assistant call my usman,make_call
+hey assistant can you 64 plus 16 kitne hotay hain,calculate
+what's 9 times 40,calculate
+ASSISTANT HI ASSISTANT,greeting
+Say a joke thanks,tell_joke
+OK KILL THE AIR CONDITIONER FOR ME,smart_home
+ADD A NEW ALARM FOR 6 IN THE MORNING FOR ME,set_alarm
+i want you to launch youtube.com,open_website
+Ok work out 64 plus 4,calculate
+Hey set a timer for 20 mins right now,set_timer
+look up cricket scores,web_search
+Turn off the air conditioner thanks,smart_home
+18 divided by 10 thanks,calculate
+yo take me to the airport,navigate
+i want you to give me directions to murree,navigate
+hey mujhe midnight par jagana thanks,set_alarm
+I want yyou to play the next song,play_music
+I want you to bye asap,greeting
+I want you to call ahmed on speaker right now,make_call
+i want you to set the ac to 25,smart_home
+hey nearest atm,navigate
+could you call customer care at 0300 1112223,make_call
+So give me directions to the city center asap,navigate
+Thanks a lt right now,greeting
+ok do i need an umbrella today,get_weather
+hey assistant how to write a resume for me,web_search
+temperature in faisalabad right now,get_weather
+so how hot is it in islamabad,get_weather
+mujhe giga mall jana ahi,navigate
+remind me about buy groceries this evening for me,set_reminder
+reminder water the plants at 8 o'clock asap,set_reminder
+google par nlp project ideas dhundo asap,web_search
+Um switch the geyser on for me,smart_home
+hey assistant can you wake me at 5:00,set_alarm
+What's today's date right now,get_time
+Yo set a reminder to water the plants thanks,set_reminder
+funny baat batao now,tell_joke
+send john a text dinner is ready thanks,send_message
+I want you to can you open reddit for me,open_website
+Start playing dil dil pakistan,play_music
+i want you to i want to call john right now,make_call
+yo reminder charge my phone at 3:15 pm,set_reminder
+ok calculate 7 times 4 thanks,calculate
+yo how many calories are in a bowl of oats right now,web_search
+set a wake up call for 6 in the morning,set_alarm
+Note a reminder to buy milk at 6 in the morning right now,set_reminder
+directions to badshahi mosque asap,navigate
+Thanks a lot now,greeting
+um show me the rawalpindi weather thanks,get_weather
+hey assisant hello,greeting
+yo phone john thanks,make_call
+how hot is it in murree asap,get_weather
+wake me up tomorrow at noon please,set_alarm
+so 75 + 3 for me,calculate
+so hey assistant,greeting
+GET ME UP AT 5:00 SHARP ASAP,set_alarm
+Hey midnight ka alarm set karo right now,set_alarm
+COULD YOU VISIT NETFLIX FOR ME,open_website
+ok time kya hu ahai,get_time
+Yo good evening,greeting
+directions to badshahi mosque,navigate
+assistant hey there thanks,greeting
+remind me to book tickets for me,set_reminder
+could you give me a laugh,tell_joke
+plese what is 5 percent of 8 please,calculate
+Hey assistant can you hey right now,greeting
+ok set alarm seven thirty asap,set_alarm
+hey assistant can you start stackoverflow thanks,open_website
+compute 50 plus 80 minus 5,calculate
+ok please turn the lampo n,smart_home
+HEY ASSISTANT LOOK FOR CHEAP HISTORY OF THE INTERNET RIGHT NOW,web_search
+i want you to call my mom,make_call
+GOOD NIGTH ASAP,greeting
+Say a joke please,tell_joke
+please sydney ka mausaam batao,get_weather
+OK PLEASE TURN THE TV ON THANKS,smart_home
+could you what is the time in lhore,get_time
+Set a cooking timer for 40 seconds for me,set_timer
+um 75 x 125,calculate
+compose a message for my wife asap,send_message
+square root of 75 please,calculate
+please tell me a funny joke,tell_joke
+Ok please wake me at 3:15 pm tomorrow for me,set_alarm
+i want you to alarm please for 4 am for me,set_alarm
+So turn the light off,smart_home
+Open netflix,open_website
+Please please turn the heater on thanks,smart_home
+COULD YOU PERFECT SUNAO PLEASE,play_music
+assistant tell me a joke,tell_joke
+yo what time is it for me,get_time
+ok yaad dilao call the bank this weekend,set_reminder
+Remind me to go to the gym this weekend thanks,set_reminder
+I want you to timer 20 mins asap,set_timer
+navigatet o my office,navigate
+Yo set a cooking timer for 1 hour,set_timer
+queue up believer please,play_music
+good evening please,greeting
+HEY ASSISTANT DON'T LET ME FORGET TO BUY MILK,set_reminder
+Hey lock the front door asap,smart_home
+Could you open daraz now,open_website
+could you can you open gmail,open_website
+hey dim the lights for me,smart_home
+so i'm bored say something funny now,tell_joke
+ok create a reminder for go to the gym at 6 am,set_reminder
+i want oyu to 2 + 7 please,calculate
+Find petrol pump near me right now,navigate
+hey goodd morning for me,greeting
+Assistant yaad dilao submit the assignment on saturday,set_reminder
+put on arijit singh for me,play_music
+ASSISTANT HOW DO I WRITE A RESUME ASAP,web_search
+Where is the city center please,navigate
+ASSISTANT REMIND ME ABOUT RENEW MY PASSPORT TODAY ASAP,set_reminder
+I WANT YOU TO PLAY MY FAVORITE SONGS,play_music
+i want you to how are things right now,greeting
+Send a whatsapp message to hassan saying i will be late,send_message
+Um please call usman right now,make_call
+hey assistant tell uncle see you tomorrow please,send_message
+so music please,play_music
+Um how far is f-10 markaz please,navigate
+um phone call to fatima,make_call
+OK ASSALAM O ALAIKUM FOR ME,greeting
+Could you take me to the stackoverflow website please,open_website
+i want you to multiply 9 by 16,calculate
+set a timer for 45 minutes asap,set_timer
+TELL ME A PROGRAMMING JOKE PLEASE,tell_joke
+OK WHAT HOUR IS IT,get_time
+Hey is it past 11 am yet,get_time
+make a phone call to 555 0199,make_call
+I WANT TO OPEN GOOGLE DRIVE,open_website
+hey assistant ac off,smart_home
+so how long to get to the train station for me,navigate
+please what time is it thanks,get_time
+ASSISTANT PUT SOME SAD SONGS ON,play_music
+could you pllease call my brother,make_call
+yo show f-10 markaz on the map please,navigate
+Please do you know any jokes please,tell_joke
+write a message to my boss for me,send_message
+ahmed ko message bhejo call me back right now,send_message
+so put on atif aslam right now,play_music
+please saerch football world cup winners on google please,web_search
+GET MOM ON THE PHONE FOR ME,make_call
+I want you to lock the door please,smart_home
+Meaning of capital of france thanks,web_search
+Hey tell me a joke right now,tell_joke
+message zainab that happy birthday please,send_message
+Hey assistant can you how many calories in a cup of rice right now,web_search
+COULD YOU WHAT'S 500 MULTIPLIED BY 3,calculate
+so lock the door,smart_home
+switch on the bathroom light for me,smart_home
+ok searcch about bill gates now,web_search
+start a video call with the doctor,make_call
+yo add a reminder pay the electricity bill,set_reminder
+So time kya hua hai asap,get_time
+i want to call hamza now,make_call
+Hey assistant can you message uncle that the meeting is at 5,send_message
+hey what's 2 multiplied by 55 thanks,calculate
+HI ASSISTANT,greeting
+Hey remind me in 1 minute to call the bank,set_reminder
+i want you to weather in london,get_weather
+hey assistant can you tell me the time,get_time
+please is it already 7,get_time
+please set alarm 6 in the morning now,set_alarm
+Ok 18 divided by 9 right now,calculate
+hey assistant can you play some tunes for me,play_music
+HEY ASSISTANT SEE YOU,greeting
+Hey send an email to john saying see you tomorrow,send_message
+open instagram right now,open_website
+Um add a new alarm for 6::45 am thanks,set_alarm
+wake me at 9 pm,set_alarm
+I want you to set a timer for 1 hour,set_timer
+YO LET JOHN KNOW THAT DINNER IS READY,send_message
+WHAT HOUR IS IT IN PARI NOW,get_time
+wake me up att 5:30 am,set_alarm
+hey assistant can you play believer on youtube thanks,play_music
+PLAY THE NEXT SONG,play_music
+could you time check,get_time
+so launch github.com right now,open_website
+Hey assistant turn on the ac,smart_home
+Please switch the porch light on,smart_home
+Hey assistant can you weather in quetta right now,get_weather
+wake me at 5:30 am asap,set_alarm
+Ok yaad dilao charge my phone this evening please,set_reminder
+show the bus stand on the map right now,navigate
+um koi acha sa gana lagao asap,play_music
+Ac off please,smart_home
+hey assistant drop a text to my brother where are you please,send_message
+hey assistant can you tell me a silly joke,tell_joke
+CURRENT TIME PLEASE,get_time
+Yo set my wakeup call for 8 o'clock,set_alarm
+Hey assistant count down from 15 minutes,set_timer
+um how are you,greeting
+alarm at quarter to seven asap,set_alarm
+ok i want some jazz right now,play_music
+pleease go to google website asap,open_website
+I want you to the airport ka rasta batao now,navigate
+open linkedin for me for me,open_website
+yo tell me the date and day aasp,get_time
+what is the temperature in islamabad?,get_weather
+hey assistant can you pull up canva thanks,open_website
+could you turn it up a bit warmer,smart_home
+um multiply 100 by 80,calculate
+assistant current date for me,get_time
+UM TURN IT UP A BIT WARMER FOR ME,smart_home
+Could you can you play perfectn ow,play_music
+ok tell me the weather now,get_weather
+Hey assistant can you put some punjabi songs on now,play_music
+could you please remind me to check my email tonight,set_reminder
+hey assistant calculate 50 percent of 1200,calculate
+assistant i want to talk to hamza,make_call
+Hey assistant can you timer for an hour for me,set_timer
+Hey turn the air conditioner off,smart_home
+is it past miidnight yet now,get_time
+phone my wife thanks,make_call
+Do you know any jokes thanks,tell_joke
+um visit twitter,open_website
+Timer start karo 25 minutes now,set_timer
+Ok ring my friend up,make_call
+i want you to whatsapp zainab saying i'll be there in ten minutes,send_message
+I want you to send where are you to ali,send_message
+Mujhe hasao,tell_joke
+so bedroom light jala do thanks,smart_home
+could you calculate 144 times 11 right now,calculate
+Hey how cold is it in rawalpindi today,get_weather
+Set my wakeup call for half past six,set_alarm
+um do you know the time,get_time
+work out 3 plus 25,calculate
+assistant set a reminder to book tickets now,set_reminder
+Yo write a message to usman right now,send_message
+yo start the timer for a minute thanks,set_timer
+i want you to search the web for machine learning,web_search
+nice to meet you,greeting
+hey assistant 1200 plus 125 kitne hotay hain,calculate
+hey assistant can you turn on the porch light for me,smart_home
+weather today thanks,get_weather
+5 - 40 please,calculate
+yo 22 + 14,calculate
+Catch you later asap,greeting
+ASISSTANT CHECK THE WEATHER IN MULTAN,get_weather
+40 seconds ka timeer lagao,set_timer
+what's the weather next monday,get_weather
+hey directions to f-10 maarkaz,navigate
+i want you to how far is f-10 markaz asap,navigate
+Hey put on bad guy asap,play_music
+Yo mujhe yaad dilana ke call the plumber thanks,set_reminder
+O kplay some qawwali right now,play_music
+message ahmed that i'll be there in ten minutes thanks,send_message
+Could you calculate 25 percent of 2,calculate
+Hey assistant 75 minus 4 equals thanks,calculate
+play bollywood songs on spotify now,play_music
+start a voice call with zainab thanks,make_call
+Um timer for two minutes asap,set_timer
+hey assistant i want to open youtube,open_website
+so set a recurring alarm for 8:30 in the eevning every weekday right now,set_alarm
+i want you to how long to get to the train station now,navigate
+i want you to please call zainab for me,make_call
+YO SET A REMINDER FOR TOMORROW MORNING TO CHECK MY EMAIL,set_reminder
+START PLAYING ATIF ASLAM,play_music
+please difference between weather and climate,web_search
+Ok is it already 11 am thanks,get_time
+could you make a call to zaainab now,make_call
+Assistant start a 25 minutes countdown right now,set_timer
+SWWITCH ON THE GEYSER PLEASE,smart_home
+um is it sunny in dubai please,get_weather
+What time is it in london,get_time
+Ok start navigation to my office right now,navigate
+assistant alarm at 8 o'clock,set_alarm
+What's 2 multiplied by 11 right now,calculate
+Hey assistant can you search images of how photosynthesis works please,web_search
+hey how's the eather today,get_weather
+hey solve 36 * 80 + 20 right now,calculate
+could you assalam o alaikum thnaks,greeting
+Yo rin gzainab asap,make_call
+so timer 90 seconds asap,set_timer
+Play something relaxing right now,play_music
+yo wake me up at 11 am,set_alarm
+YO LOAD REDDIT ASAP,open_website
+hw late is it in murree?,get_time
+so directions to lahore fort thanks,navigate
+Hey assistant navigate to the nearest hospital right now,navigate
+UM 3 * 300,calculate
+Ok koi latifa sunao now,tell_joke
+yo the nearest hospital ka rasta batao,navigate
+Ok play me bohemian rhapsody thanks,play_music
+hey assistant can you i'm bored say something funny now,tell_joke
+yo play coke studo on spotify right now,play_music
+Please search for recipe for biryani asap,web_search
+wake me up at 6 in the morning please,set_alarm
+ok turn the bedroom light off,smart_home
+I WANT YOU TO PLAY THE SONG COKE STUDIO,play_music
+message bilal tha i will be late asap,send_message
+Yo ek joke sunao thanks,tell_joke
+HEY ASSISTANT TIMER START KARO 30 SECONDS RIGHT NOW,set_timer
+hey go to netflix website right now,open_website
+I WANT YOU TO BRING UP NETFLIX,open_website
+could you weather forecast for new york now,get_weather
+Um good afternoon please,greeting
+launch chatgpt now,open_website
+hey let me hear some jazz while i work thanks,play_music
+COULD YOU CHEER ME UP ASAP,tell_joke
+yo create an alarm for seven thirty please,set_alarm
+I want yo uto start a video call with the doctor,make_call
+um meaning of benefits of exercise thanks,web_search
+hey assistant hey buddy right now,greeting
+could you tell me a dad joke thanks,tell_joke
+so send an email to my brother saying i will be late thanks,send_message
+WATER THE PLANTS KA REMINDER LAGAO FOR ME,set_reminder
+shut off the bedroom light,smart_home
+please funny baat batao please,tell_joke
+hey assistant can you funny baat batao thanks,tell_joke
+What is 15 percent of 1200 asap,calculate
+Ok what's new for me,greeting
+ok text ali i reached home please,send_message
+Hey assistant can you my brother ko message bhejo the meeting is at 5,send_message
+Hey assistant i need a timer ffor 30 seconds please,set_timer
+What can you do,greeting
+ok please remind me to go to the gym next monday please,set_reminder
+please take me to the instagram website asap,open_website
+i want you to tell me a funny joke,tell_joke
+please add a reminder water the plants please,set_reminder
+can you set an alarm for 6:45 am asap,set_alarm
+so is it already 5:30 am right now,get_time
+Hey 5:00 ka alarm set karo for me,set_alarm
+ok remind me to buy milkplease,set_reminder
+wake me up at 8 o'clock now,set_alarm
+Yo divide 1200 by 25,calculate
+so will it rani this weekend thanks,get_weather
+hey call uncle assap,make_call
+I want you to temperature in karachi right now please,get_weather
+Um lock the front door,smart_home
+hey assistant can you make a note to remind me to buy groceries,set_reminder
+i want you to send a message to john saying thanks for the help asap,send_message
+Set timerr two minutes,set_timer
+drive me to the city center asap,navigate
+hey mujhe hasao asap,tell_joke
+I want you to remind me in 2 hours to check my email,set_reminder
+assistant 100 plus 125 kitne hotay hain asap,calculate
+hey assistant can yu countdown 45 seconds asap,set_timer
+search about bill gates,web_search
+write a message to fatima,send_message
+play my favorite songs,play_music
+COULD YOU TELL ME A DAD JOKE NOW,tell_joke
+i want you to make the room cooler,smart_home
+could you pull up twitter thanks,open_website
+assistant who are you asap,greeting
+how hot is it in quetta,get_weather
+i want you to connect me to hassan now,make_call
+Hey take me to the reddit website,open_website
+So my office ka rasta batao,navigate
+could you make me chuckle now,tell_joke
+countdown 1 hour,set_timer
+Could you remind me to attend the meeting,set_reminder
+Fan jala do please,smart_home
+assistant tell me the current time,get_time
+yo is it already 6 in the morning,get_time
+please is it going to rain in faisalabad,get_weather
+assistant how's the weather today asap,get_weather
+i'd like to hear som bollywood songs asap,play_music
+switch the llamp on thanks,smart_home
+Yo message sara that i'll be there in ten minutes,send_message
+i want you to youtube open karo,open_website
+please 5 x 3 now,calculate
+ok kitchen lights off right now,smart_home
+Um peshawar ka mausam batao,get_weather
+hey send an email to the doctor saying thanks for the help asap,send_message
+check theweather in quetta right now,get_weather
+Please switch the coffee maker on asap,smart_home
+start a three minutes timer thanks,set_timer
+Hey what is machine learning for me,web_search
+please send a whatsapp message to fatima saying thanks for the help asap,send_message
+Hey assistant give me directions to badshaahi mosque,navigate
+Yo send mom a text i reached home plaese,send_message
+assistant is it cold outside now,get_weather
+18 x 3 ow,calculate
+yo is it sunny in toronto riht now,get_weather
+assistant will it rain tonight,get_weather
+BUY GROCERIES KA REMINDER LAGAO,set_reminder
+kitchen lights jlaa do,smart_home
+could you set a cooking timer for 5 minutes,set_timer
+um i need a laugh sap,tell_joke
+hey assistant can you hello,greeting
+Hey assistant can you dial 555 0199,make_call
+Hey assistant 15 + 125,calculate
+ok aaj kya tareekh hai for me,get_time
+set a one minute timer,set_timer
+pull up youtube for me,open_website
+um play music right now,play_music
+ASSISTANT HOW COLD IS IT IN RAWALPINDI TOMORROW MORNING RIGHT NOW,get_weather
+um tell my boss where are you please,send_message
+Assistant launch gmail,open_website
+Set timer 45 minutes please,set_timer
+kill the lamp,smart_home
+Hey bring up gmail now,open_website
+Ok multiply 5 by 80,calculate
+note a reminder to attend the meeting at 6:45 am asap,set_reminder
+begin a timeer of 90 seconds asap,set_timer
+could you subah 4 am baje alarm lagao thanks,set_alarm
+USMAN SE BAAT KARAO PLEASE,make_call
+please i need a timer for a minute,set_timer
+ASSISTANT PUT A TIMER ON FOR 1 MINUTE,set_timer
+hey assistant mujhe yaad dilana ke charge my phone,set_reminder
+so is it sunny in murree thanks,get_weather
+Hey assistant can you i want to open instagram,open_website
+Um please wake me at 5:00 tomorrow for me,set_alarm
+YO RING FATIMA UP,make_call
+so turn the ac off,smart_home
+please add a new alarm for 8 o'clock please,set_alarm
+ok look for python tutorials online,web_search
+hey assistant show me the route to badshahi mosque,navigate
+assistant let's hear imran khan songs,play_music
+What's thee weather today please,get_weather
+time now please,get_time
+drive me to home please,navigate
+yo call 0321 5551234 right now,make_call
+Send mom a message,send_message
+Ok please turn the air conditioner on,smart_home
+hey can you open amazon thanks,open_website
+assistant what is the temperature in murree,get_weather
+ok add a reminder book tickets thanks,set_reminder
+Um how late is it please,get_time
+what hour is it right now?,get_time
+I WNT TO HEAR A JOKE ASAP,tell_joke
+set a three minutes timer,set_timer
+playf aded,play_music
+yo who on the benefits of exercise,web_search
+assistant aajkya tareekh hai,get_time
+So shut off the ac asap,smart_home
+hey assistant tell me the current time now,get_time
+hey youtube open karo thanks,open_website
+Um dim the lights,smart_home
+Tell me the weather now,get_weather
+please bring on the lofi for me,play_music
+OK ROUTE TO MURREE,navigate
+um i need a reminder to submit the assignment for me,set_reminder
+i need a reminder to send the report right now,set_reminder
+SO NAVIGATE TO THE BUS STAND RIGHT NOW,navigate
+Text aahmed,send_message
+map of home,navigate
+FIND BEST LAPTOPS UNDER 1000 DOLLARS,web_search
+open my chatgpt,open_website
+start my workout playlist,play_music
+um hi assistant asap,greeting
+hello there,greeting
+Please khuda hafiz please,greeting
+so compute 9 pllus 10 minus 5,calculate
+SO DIRECTIONS TO THE CITY CENTER,navigate
+um start a half an hour timer right now,set_timer
+turn it up a bit warmer asap,smart_home
+what's the forecast for today now,get_weather
+Could you living room lights band kar do please,smart_home
+HEY GOODBYE OW,greeting
+please let john know that the meeting is at 5 right now,send_message
+hey assistant can you set the thermostat to 25 degrees,smart_home
+what's 12 times 55 asap,calculate
+hey assistant how far is the university please,navigate
+switch off the ac asap,smart_home
+i want you to wake me up at noon thanks,set_alarm
+please is it past 6:15 yet,get_time
+YO HOW DO I TIE A TIE,web_search
+Hey assistant aaj kya tareekh hai for me,get_time
+please weather in london,get_weather
+Put on bohemian rhapsody asap,play_music
+could you open reddit for me right now,open_website
+Hey assistant remind me to call the bank this weekend,set_reminder
+Yo send the meeting is at 5 to zainab for me,send_message
+yo search for cricket sccores,web_search
+How do i make tea please?,web_search
+hey alarm at half past six thanks,set_alarm
+Hey current time please,get_time
+play myy favorite songs,play_music
+play bliever on spotify,play_music
+so long time no see asap,greeting
+ok find  the way to the university for me,navigate
+please calculate 144 times 125 asap,calculate
+UM KYA AAJ BARISH HOGI,get_weather
+So closest hospital to me now,navigate
+hey assistant play me believer,play_music
+hey assistant can you hey buddy thanks,greeting
+hey remind me to buy milk asap,set_reminder
+Bring up google thanks,open_website
+Abhi kitne baje hain please,get_time
+hey bring on the lofi,play_music
+hey i need an alarm at 5:00 thanks,set_alarm
+Work out 45 plus 16 now,calculate
+Hey text hassan where are you,send_message
+Look for latest news online for me,web_search
+assistant nice to meet you please,greeting
+square root of 8,calculate
+I want you to check the weather in new york,get_weather
+hey play taylor siwft on spotify,play_music
+SAY SOMETHING FUNNY,tell_joke
+so start a voice call with fatima,make_call
+whatsapp bilal i am on my way right now,send_message
+I want you to i want to hear a joke for me,tell_joke
+S OPLAY MUSIC,play_music
+Assistant crack a joke asap,tell_joke
+hey assistant can you call uncle please,make_call
+hey route to the city center for me,navigate
+turn off the heater,smart_home
+assistant look for python tutorials online please,web_search
+Could you tell me a ufnny joke right now,tell_joke
+hey assistant how are things,greeting
+yo turn off the bedroom light thanks,smart_home
+UM UNLOCK THE DOOR NOW,smart_home
+Yo 2 * 3 thanks,calculate
+hey assistant wake me up tomorrow at midnight for me,set_alarm
+Hey assistant i want to wake up at 5 pm now,set_alarm
+hey assistant what is 25 percent of 500 please,calculate
+so 45 ko 6 se multiply karo,calculate
+assistant start a 2 hours countdown,set_timer
+SO HOW LATTE IS IT RIGHT NOW,get_time
+hey assistant how far is the city center asap,navigate
+yo bilal ko message bhejo happy birthday thanks,send_message
+Hey assistant can you is it past 5 pm yet thanks,get_time
+look up latest news for me,web_search
+Ok can you search flask tutorial,web_search
+please turn it up a bit warmer,smart_home
+send a message to ahmed saying let's meet at the cafe please,send_message
+ok create a reminder for pick up the kids at seven thirty,set_reminder
+um kesariya sunao please,play_music
+hey assistatn can you show me the route to lahore fort,navigate
+wok out 12 plus 40,calculate
+Unlock the door,smart_home
+hey i want to talk to bilal now,make_call
+ok count down from 20 mins thanks,set_timer
+Um aaj kya tareekh hai,get_time
+ok lighten the mood with something funny,tell_joke
+remind me to chec kmy email today,set_reminder
+So play soome hip hop,play_music
+Ok could you put on some sad songs thanks,play_music
+put a timer on for an hour,set_timer
+i want you to find information about recipe for biryani,web_search
+koi latifa suna asap,tell_joke
+yo joke please,tell_joke
+play punjabi songs on spotify,play_music
+map of the train station for me,navigate
+Hey assistant send ayesha a text happy birthday please,send_message
+Hey is it going to rain in quetta,get_weather
+ok google par tf idf explained dhundo for me,web_search
+So put some punjabi songs on now,play_music
+look for stock market today online,web_search
+play classical music on spotify,play_music
+Assistant i want to open youtube,open_website
+hey joke please right now,tell_joke
+could you chatgpt open karo thanks,open_website
+hey assistant can you how many calories are in a samosa,web_search
+i need an alarm at 5:00,set_alarm
+I want you to drop a text to my boss i will be late right now,send_message
+hey assistant joke please for me,tell_joke
+dial ayesha thanks,make_call
+Please i want to open canva please,open_website
+Um ac on,smart_home
+UM TIMER FOR AN HOUR,set_timer
+Hey assistant can you send an email to my boss saying let's meet at the cafe,send_message
+soe ntertain me,tell_joke
+so hey assistant thanks,greeting
+yo get sara on the phone,make_call
+i want you to wake me at 4 am,set_alarm
+i want you to time now now,get_time
+i want you to can you turn off the lamp now,smart_home
+Um subah 6 am baje alarm lagao,set_alarm
+I want you to quarter to seven ka alarm set karo,set_alarm
+hey assistant can you play my favorite songs for me,play_music
+um what is 20 percent off 45 asap,calculate
+find petrol pump near me now,navigate
+could you time kya hua hai or me,get_time
+hey assistant can you don't let me forget to attend the meeting,set_reminder
+Ok i want to listen to imran khan songs,play_music
+So what's the forecast for tonight right now,get_weather
+so mujhe yaad dilana ke buy groceries,set_reminder
+i want you to funny baat batao,tell_joke
+SO HOW'S YOUR DAY PLEASE,greeting
+I want you to subah 6 in the morning baje alarm lagao for me,set_alarm
+Tell me another joke,tell_joke
+assistant temperature in lahore right now,get_weather
+WHAT IS 8 PLUS 10,calculate
+HEY ASSISTANT CAN YOU START A 45 MINUTES COUNTDOWN NOW,set_timer
+25 minutes ka timer lagao now,set_timer
+Ok 25 ko 12 se multiply karoright now,calculate
+Hamza ko whatsapp karo for me,send_message
+please salam please,greeting
+assistant let me hear some classical music while i work please,play_music
+wake me up tomorrow at 6:45 am,set_alarm
+Um will it rain tomorrow,get_weather
+please whatsapp uncle saying good morning,send_message
+ok phone call to john for me,make_call
+could you make me chuckle,tell_joke
+Assistant youtube.com par le jao asap,open_website
+ok what is 1200 plus 300 asap,calculate
+hey assistant can you find the way to murree right now,navigate
+assistant got any jokes now,tell_joke
+Assistant see you,greeting
+hey assistant play some tunes thanks,play_music
+yo call customer care at 0321 5551234,make_call
+um hey there now,greeting
+Hey write a message to bilal,send_message
+diretcions to home,navigate
+assistant remind me to buy groceries att 6:15 right now,set_reminder
+assistant calculate 15 percent of 5,calculate
+Um timer 15 minutes,set_timer
+hey assistant can you bring up github.com right now,open_website
+Assistant give me directions to f-10 markaz,navigate
+Hey assistant can you find me recipe for biryani,web_search
+time kya hua hai please,get_time
+Um shut off the porch light for me,smart_home
+Tell me teh current time,get_time
+so get me up at 4 am sharp,set_alarm
+could you make a note to remind me to attend the meeting please,set_reminder
+funny baat batao thanks,tell_joke
+assistant i feel like listening to blinding lights now,play_music
+please dad ko message bhejo i reached home,send_message
+get ayesha on the phone asap,make_call
+Hey calculate 5 times 14 right now,calculate
+PLEASE I WANT TO KNOW ABOUT ALBERT EINSTEIN ASAP,web_search
+so mujhe yaad dilana ke study for the exam right now,set_reminder
+Hey what's the difference between iphone price and precision and accuracy,web_search
+hey timer for 15 minutes thanks,set_timer
+ALI KO PHONE LAGAO PLEASE,make_call
+Um alarm for 7:30 am tomorrow morning right now,set_alarm
+Assistant set a half an hour timer,set_timer
+what's the difference between cricket scores and java right now,web_search
+search about albert einstein,web_search
+so i'm in the mood for rock,play_music
+what day is it today thanks?,get_time
+Could you how late is it in tokyo,get_time
+Connect me to hamza please,make_call
+Hey assistant sara se baat karao right now,make_call
+hey assistant can you google par benefits of exercise dhundo,web_search
+set a coooking timer for three minutes asap,set_timer
+Um is it sunny in peshawar now,get_weather
+i want you to how far is the city center,navigate
+could you send ali a text dinner is ready,send_message
+Hey assistant 15 minutes ka timer lagao please,set_timer
+yo how late is it,get_time
+turn off the porch light,smart_home
+Set an alarm for midnight right now,set_alarm
+hey timer start karo 25 minutes,set_timer
+bilal ko call karo,make_call
+HEY ASSISTANT CAN YOU 15 X 11 THANKS,calculate
+Please salam kaise ho please,greeting
+hey assistant can you unlock the door now,smart_home
+um timer 90 seconds,set_timer
+send my iwfe a message,send_message
+I want you to cheer me up with a joke,tell_joke
+hey open linkedin in a new tab please,open_website
+Yo find information about recipe for biryanif or me,web_search
+what does latest news mean?,web_search
+Hey assistant start a voice call with hamza for me,make_call
+Github.com open karo for me,open_website
+set my wakeup call for 6 am,set_alarm
+Compute 7 plus 80 minus 1,calculate
+Please make the room cooler please,smart_home
+Please nice to meet you,greeting
+I want you to tell me the date and day,get_time
+yo remmind me to take my medicine tomorrow asap,set_reminder
+um mujhe hasao thanks,tell_joke
+hey assistant an you send fatima a message right now,send_message
+hey assistant can you how late is it for me,get_time
+drop a text to my brother let's meet at the cafe for me,send_message
+could you  remind me to check my email tomorrow right now,set_reminder
+so show me results for best laptops under 1000 dollars thanks,web_search
+Hey assistant can you nearest petrol pump right now,navigate
+assistant khuda hafiz please,greeting
+i want to listen to believer,play_music
+HEY ASSISTANT TWO MINUTES KA TIMER LAGAO,set_timer
+I WANT YOU TO LAMP JALA DO,smart_home
+Hey assistant can you set a cooking timer for 1 5minutes right now,set_timer
+Please crack a joke right now,tell_joke
+Yo now,greeting
+hey assistant can you give my brother a call thanks,make_call
+how cold is it in peshawar tonight,get_weather
+Could you what does pakistan independece day mean right now,web_search
+OK BEGIN A TIMER OF 5 MINUTES,set_timer
+please i need a laugh right now,tell_joke
+whatsapp fatima thanks for the help,send_message
+Hey assistant can you create a reminder for buy groceries at 5:00 right now,set_reminder
+um google par iphone price dhundo now,web_search
+Assistant who won the recipe for biryani for me,web_search
+assistant ring fatima up for me,make_call
+What is the temperature in paris asap?,get_weather
+Could you cheer me up with a joke now,tell_joke
+Lock the front door right now,smart_home
+OK CALL 0300 1112223 ASAP,make_call
+Send an email to ayesha saying thanks fr the help,send_message
+Could you alarm for 6:15 tomorrow morning now,set_alarm
+so current time please,get_time
+hey assistant can you what's 20 times 10,calculate
+I wanty ou to get me up at 7 sharp,set_alarm
+set an alarm for 10 pm now,set_alarm
+hey assistant can you do you know the time,get_time
+um bilal ko message bhejo thanks for the help,send_message
+pull up youtube.com,open_website
+hey can you play blinding lights,play_music
+count down from 90 seconds thanks,set_timer
+Koi laatifa sunao,tell_joke
+i want you to call 555 0199,make_call
+Um remind me to check my email please,set_reminder
+yo tell me the weather,get_weather
+SO TELL ME A SILLY JOKE RIGHT NOW,tell_joke
+Ok square root of 9,calculate
+assistant what's the time in rawalpindi right now thanks,get_time
+will it rain on saturday for me?,get_weather
+could you add a reminder book tickets now,set_reminder
+Switch on the porch light,smart_home
+i want you to what's the forecast for tomorrow now,get_weather
+yo shhuffle my playlist for me,play_music
+ok tell me about history of the internet,web_search
+ok calculate 5 times 30,calculate
+hey how is it going,greeting
+Please who is elon musk,web_search
+um load netflix please,open_website
+hey look up albert einstein asap,web_search
+HEY ASSISTANT CAN YOU KYA HAAL HAI RIGHT NOW,greeting
+HEY ASSISTANT WHAT DAY IS IT TODAY,get_time
+github kholo thanks,open_website
+see you thanks,greeting
+how much is 64 minus 3?,calculate
+Find me latest news,web_search
+timer 45 minutes thanks,set_timer
+Hey assistant send fatima a message please,send_message
+ok how's your day thanks,greeting
+So call ali,make_call
+please call 0321 5551234,make_call
+I want you to remind me to go to the gym at quarter to seven,set_reminder
+i need a laugh,tell_joke
+Hey assistant can you time check,get_time
+Timer start karo 45 seconds now,set_timer
+tell me the date and day now,get_time
+wake me up at 8:30 in the evening,set_alarm
+HEY ASSISTANT CAN YOU TELL ME THE WEATHER,get_weather
+COULD YOU IS IT ALREADY 6 IN THE MORNING,get_time
+Could you phone call to the doctor,make_call
+please hassan se baat karao right now,make_call
+hey assistant solve 5 * 12 + 20 thanks,calculate
+Um a minte ka timer lagao for me,set_timer
+Do you know any jokes asap,tell_joke
+map of faisal mosque thanks,navigate
+hey ek joke sunao,tell_joke
+could you mujhe 5:30 am par jagana please,set_alarm
+i want to know about stock market today right now,web_search
+um kill the bathroom light for me,smart_home
+UM DON'T LET M EFORGET TO RENEW MY PASSPORT,set_reminder
+yo is it already 7 asap,get_time
+ok 1200 + 4 right now,calculate
+COULD YOU HOW'S THE WEATHER TODAY THANKS,get_weather
+assistant crack a joke,tell_joke
+SO MUJHE HASAO,tell_joke
+So tokyo mein kya time ho raha hai please,get_time
+got any jokes asap,tell_joke
+um i want to openy outube for me,open_website
+don't let me forget to drink water please,set_reminder
+Could you find atm near me right now,navigate
+i want to know about bitcoin price for me,web_search
+hey start youtube thanks,open_website
+I NEED A LAUGH ASAP,tell_joke
+Could you ed sheeran chalao,play_music
+GANA CHALAO,play_music
+COULD YOU MAKE THE ROOM COOLER FOR ME,smart_home
+So message bhejo usman ko ke i'll be there in ten minutes asap,send_message
+Directions to faisal mosque right now,navigate
+Could you mujhe 6 am par jagana,set_alarm
+yo how late is it in paris for me,get_time
+open daraz for me for me,open_website
+salam now,greeting
+Directions to the city center,navigate
+so what's new,greeting
+SO SET TIMER 90 SECONDS,set_timer
+could you show me the route to the airport now,navigate
+assistant set my wakeup call for 5:30 am thanks,set_alarm
+remind me to send the report please,set_reminder
+show me the pariss weather,get_weather
+UM CREATE A REMINDER FOR CALL THE PLUMBER AT 9 PM ASAP,set_reminder
+Call ahmed,make_call
+add a reminder pay the electricity bill right now,set_reminder
+Hey assistant can you i want some bollywood songs right now,play_music
+5 minutes timer please,set_timer
+Assistant set timer one minute asap,set_timer
+500 / 3,calculate
+Hey give me directions to the university right now,navigate
+I want you to berlin ka mausam batao please,get_weather
+assistant set my alarm to 10 pm asap,set_alarm
+ok i need an alarm at 10 pm please,set_alarm
+SO LET ALI KNOW THAT THE MEETING IS AT 5 NOW,send_message
+OK QUEUE UP BELIEVER PLEASE,play_music
+So remind me to pay the electricity bill asap,set_reminder
+find me tutorials on history of the internet,web_search
+could you got any jokes asap,tell_joke
+I want you to 9 - 14,calculate
+hey set a recurring alarm for 9 pm every weekday now,set_alarm
+how much is 18 minus 125 please,calculate
+Hey assistant can you start navigation to centaurus mall please,navigate
+please set the alarm 6 am please,set_alarm
+hey assistant directions to the train station,navigate
+TURN THE BATHROOM LIGHT OFF RIGHT NOW,smart_home
+Put on closer,play_music
+Google bicoin price,web_search
+i want you to send ans ms to john thanks,send_message
+ok make the room cooler thanks,smart_home
+Closest petrol pump to me asap,navigate
+so is it sunny in rawalpindi,get_weather
+hey assistant lights off thanks,smart_home
+koi latifa sunao right now,tell_joke
+tell me the date and day for me,get_time
+so ac jala do,smart_home
+yo findd the way to centaurus mall thanks,navigate
+Could you set timer 15 minutes,set_timer
+Hey assistant can you yaad dilao renew my passport this weekend,set_reminder
+what day is it today asap?,get_time
+Ok tell me a joke,tell_joke
+hey music chalao right now,play_music
+hey assistant can you start the timer for 45 minutes asap,set_timer
+Yosend ayesha a message,send_message
+please mujhe hasao thanks,tell_joke
+i want to ccall dad right now,make_call
+um kill the lamp,smart_home
+I WANT YOU TO GOT ANYJ OKES RIGHT NOW,tell_joke
+Could you write a message to my brother,send_message
+ring bilal,make_call
+Please set timer 25 minutes asap,set_timer
+um connect me to my boss please,make_call
+HEY ASSISTANT CAN YOU SHUT OFF THE HEATER,smart_home
+Please conenct me to mom,make_call
+UM FIND PHARMACY NEAR ME RIGHT NOW,navigate
+give me directions to home right now,navigate
+Time check,get_time
+so wikipedia open karo for me,open_website
+Could you how many calories are in a slice of pizza now,web_search
+hey assistant can you set the ac to 26n ow,smart_home
+so call customer care at +923331234567 now,make_call
+Hey assistant can you time 1 hour for me please,set_timer
+Take me to the netflix website please,open_website
+I need a timer for half an hour,set_timer
+um play bad guy on spotify now,play_music
+Start a video call withmy friend,make_call
+yo i want to open github.com right now,open_website
+reminder buy groceries at 8 o'clock asap,set_reminder
+hey assistant can you the doctor se baat karao,make_call
+I want you to visit chatgpt thanks,open_website
+yo coke stduio sunao for me,play_music
+hey assistant can you whatsapp hamza saying happy birthday thanks,send_message
+could you pull up lnkedin for me,open_website
+Could you start a video call with ahmed asap,make_call
+hey assistant how hot is it in sydney right now,get_weather
+open amazon for me thanks,open_website
+assistant don't let me forget to pick up the kids,set_reminder
+yo find history of the internet,web_search
+OK SALAM KAISE HO ASAP,greeting
+kya aaj barish hogi?,get_weather
+Is it sunny in london,get_weather
+Hello there now,greeting
+yo calculate 50 percent of 25,calculate
+ok timers tart karo 90 seconds,set_timer
+ok alarm at 4:45 pm,set_alarm
+Load whatsapp thanks,open_website
+I WANNT YOU TO CHEER ME UP,tell_joke
+hey assistant can you 45 minutes timer please for me,set_timer
+I want to talk to ali asap,make_call
+Weather in multan,get_weather
+what can you do thanks,greeting
+yaad dilao pick up the kids today,set_reminder
+Could you cheer me up with a joke for me,tell_joke
+please please turn the kitchen lights on thanks,smart_home
+i want you to route to badshahi mosque,navigate
+Could you luanch google,open_website
+hey assistant can you how cold is it in tokyo tonight,get_weather
+What time is it in paris right now,get_time
+Um play the song believer,play_music
+Assistant difference between a virus and a bacteria,web_search
+get me up at noon sharp,set_alarm
+so alarm for 8:30 in the evening tomorrow morning for me,set_alarm
+Reminder feed the cat at 4:45 pm asap,set_reminder
+SET MY WAKEUP CALL FOR 4:45 PM FOR ME,set_alarm
+Note a reminder to drink water at 6 am,set_reminder
+hey assistant can you bring up youtube for me,open_website
+MUJHE 8:30 IN THE EVENING PAR JAGANA RIGHT NOW,set_alarm
+ok thanks for me,greeting
+could you alarm please for 10 pm now,set_alarm
+Hey assistant what is the temperature in london thanks,get_weather
+hey assistant mujhe hasao right now,tell_joke
+Could you mujhe imran khan songs sunna hai,play_music
+send the meeting is at 5 to my friend asap,send_message
+ok hello theere now,greeting
+assistant remind me to feed the cat next monday,set_reminder
+remind me to renew my passport at 5:00 now,set_reminder
+hey set an alarm for 7:30 am asap,set_alarm
+say a joke asap,tell_joke
+um take care right now,greeting
+timer start karo three minutes thanks,set_timer
+Water the plants ka reminder lagao,set_reminder
+1200 / 16 asap,calculate
+could you playy my favorite songs now,play_music
+I WANT YOU TO AN HOUR TIMER PLEASE,set_timer
+Hey assistant begin a timer of 90 seconds thanks,set_timer
+please show me the route to centaurus mall right now,navigate
+yo set a reminder to feed the cat,set_reminder
+how's everything,greeting
+so is it past half past six yet htanks,get_time
+i want you to what is 10 percnet of 45,calculate
+hey assistant can you current time please right now,get_time
+set a reminder to study for the exam please,set_reminder
+assistant i need a timer for 20 mins right now,set_timer
+hey send an sms to ali asap,send_message
+YO DRIE ME TO MURREE THANKS,navigate
+So multiply 64 by 40 please,calculate
+please who won the machine learning,web_search
+blast taylor swift,play_music
+so message my rbother that let's meet at the cafe for me,send_message
+Please i want to talk to fatima asap,make_call
+Please 45 seconds ka timer lagao,set_timer
+Yo phone call to usman,make_call
+PLEASE MAKE ME LAUGH ASAP,tell_joke
+ok where is badshahi mosque,navigate
+Ok what's today's date thanks,get_time
+um what is the date today,get_time
+Please hello how are you asap,greeting
+what's the forecast for tonight thanks,get_weather
+tell my wife let's meet at the cafe for me,send_message
+hey assistant can you message bhejo my boss ko ke where are you please,send_message
+i awnt you to chatgpt open karo,open_website
+um remind me to call the plumber,set_reminder
+please visit facebook,open_website
+set a timer for 90 seconds,set_timer
+Hey assistant can you assalam o alaikum please,greeting
+please find information about how photosynthesis works,web_search
+could you add 45 and 11 please,calculate
+Hey assistant can you what is the temperature in faisalabad asap,get_weather
+umb egin a timer of an hour right now,set_timer
+assistant compose a message for my wife,send_message
+yo entertain me,tell_joke
+PLEASE IS IT COLD OUTSIDE FOR ME,get_weather
+ok remind me in 10 minutes to charge my phone asap,set_reminder
+please what is the temperature in murree for me,get_weather
+I want you to turn on the air conditioner,smart_home
+Start the timer for 45 seconds asap,set_timer
+hey assistant can you can you tell me something funny,tell_joke
+assistant put a timer on for 30 seconds,set_timer
+TELL ME A RANDOM JOKE FOR ME,tell_joke
+assistant current date asap,get_time
+Ok remind me in 2 hours to water the plants now,set_reminder
+how's everthing,greeting
+I awnt you to time check,get_time
+SO TAKE CARE,greeting
+um tell me the weather right now,get_weather
+REMIND ME TOTAKE MY MEDICINE THIS WEEKEND,set_reminder
+YO WHAT'S THE TIME IN MULTAN RIGHT NOW FOR ME,get_time
+UM MY BROTHER KO MESSAGE BHEJO WHERE ARE YOU,send_message
+please got any jokes,tell_joke
+hey directions to f-10 markaz for me,navigate
+i want you to 5 minutes ka timer lagoa now,set_timer
+hey assistant can you call my brother,make_call
+Hey assistant can you play me shape of you,play_music
+hey kill the geyser asap,smart_home
+what hour is it in sydney,get_time
+yo how's the weather today,get_weather
+Hey assistant asap,greeting
+how many calories are in a bowl of oats asap,web_search
+send ahmed a text where are you right now,send_message
+ok give me directions to faisal mosque thanks,navigate
+Hey assistant can you set my wakeup call for 5 pm for me,set_alarm
+um open kaggle in a new tab asap,open_website
+hey assistant can you don't let me forget to call the bank,set_reminder
+divide 144 by 40,calculate
+So my wife ko phone lagao please,make_call
+add a new alarm for 5 pm please,set_alarm
+i want you to ahmed ko phone lagao,make_call
+Kitchen lights on,smart_home
+phone call to sara,make_call
+Please do you know the time,get_time
+So search the web for latest news please,web_search
+coutn down from 30 seconds for me,set_timer
+WAKE ME UP TOMORROW AT HALF PAST SIX,set_alarm
+send a message to ahmed saying let's meet at the cafe,send_message
+YO TIME CHECK ASAP,get_time
+hey assistant start a 40 seconds timer,set_timer
+nice to meet you thanks,greeting
+i want you to can you tell me something funny,tell_joke
+yo don't let me forget to take my emdicine thanks,set_reminder
+ASSISTANT WHAT'S TODAY'S DATE,get_time
+show the city centr on the map,navigate
+put a timer on for 2 hours now,set_timer
+i'm bored say something funny right now,tell_joke
+subah half past six baje alarm lagao,set_alarm
+Entertain me asap,tell_joke
+so note a reminder to send the report at 5 pm asap,set_reminder
+ok is it past4  am yet now,get_time
+How hot is it in tokyo,get_weather
+ASSISTANT I WANT TO HEAR A JOKE,tell_joke
+will it rain this evening now?,get_weather
+start navigation to badshahi mosque,navigate
+PLEASE PULL UP KAGGLE,open_website
+i want to know about latest news for me,web_search
+ok what's the weather like in berlin please,get_weather
+subtract 3 from 7,calculate
+Hey search for pakistan independence day asap,web_search
+um can youu play levitating please,play_music
+WHAT IS THE DATE TODAY ASAP?,get_time
+yo i want to know about recipe for biryani thanks,web_search
+create a reminderf or feed the cat at 7:30 am,set_reminder
+PLEASE SET ALARM 6 IN THE MORNING RIGHT NOW,set_alarm
+So message john that i'll be there in ten minutes for me,send_message
+I want you to make a phone call to 0321 5551234 for me,make_call
+CONNECT ME TO USMAN FOR ME,make_call
+assistant set my wakeup call for 6 am,set_alarm
+Could you how is it going,greeting
+Assistant compute 7 plus 12 minus 1 for me,calculate
+assistant can you open daraz,open_website
+yo play dance monkey,play_music
+WHAT'S 50 TIME S14 NOW,calculate
+don't let me forget to send the report,set_reminder
+so what is history of the internet now,web_search
+Hey assistant can you my wife se baat karao,make_call
+Hey assistant nearest pizza place kahan hai please,navigate
+Hey assistant take care asap,greeting
+yo ayesha ko phone lagao,make_call
+THANKS FOR ME,greeting
+ok message my friend that i will be late,send_message
+visit google thanks,open_website
+hey assistant count down from half an hour,set_timer
+air conditioner band karo asap,smart_home
+So what's 2 times 25,calculate
+Tell me the current time right now,get_time
+Play me someone like you,play_music
+Hey assistant music please now,play_music
+hey assistant can you what's 120 multiplied by 4 for me,calculate
+hey assistant look for cheap bitcoin price,web_search
+Could you alarm lagao 4:45 pm ka,set_alarm
+UM DIRECTIONS TO THE TRAIN STATION THANKS,navigate
+ASSISTANT TELL ME ABOUT HOW PHOTOSYNTHESIS WORKS PLEASE,web_search
+Hey dial 0321 5551234,make_call
+SET A 40 SECONDS TIMER,set_timer
+hey what's 144 multiplied by 6,calculate
+Work out 1200 plus 25,calculate
+Hey assistant can you play me blinding lights,play_music
+Hey koi latifa sunao,tell_joke
+so entertain me,tell_joke
+multiply 9 by 55,calculate
+so pull up spotify for me,open_website
+PLEASE GOOD MORNING,greeting
+YO SAY A JOKE ASAP,tell_joke
+Hey how late is it,get_time
+add 45 and 12,calculate
+calculate 30 percent of 75,calculate
+hey assistant can you let me hear some workout music while i work asap,play_music
+yo why is scikit learn documentation important now,web_search
+Could you set a timer for 1 hour now,set_timer
+tell me the weather for me,get_weather
+crack a joke now,tell_joke
+I WANT YOU TO MUJHE THE BUS STAND JANA HAI,navigate
+OK WHAT HOUR IS IT IN ISTANBUL PLEASE,get_time
+hey assistant can you turn off the bedroom light,smart_home
+HEY ASSISTANT CAN YOU MAKE A NOTE TO REMIND ME TO BUY MILK PLEASE,set_reminder
+could you open stackoverflow in a new tab,open_website
+hey assistant can you check the weather in rawlapindi,get_weather
+yo please remind me to sennd the report tomorrow morning,set_reminder
+Set a reminder for this weekend to charge my phone asap,set_reminder
+hey assistant can you put on tum hi ho thanks,play_music
+i want you to how to reset a oruter,web_search
+Hey remind me to call the bank at 5:30 am,set_reminder
+ali ko call karo right now,make_call
+Please subah 4 am baje alarm lagao right now,set_alarm
+um what day is it today,get_time
+ok bring up gmail,open_website
+Whatsapp ahmed see you tomorrow thanks,send_message
+good evening,greeting
+yo koi latifa sunao asap,tell_joke
+um solve 25 * 16 + 2 now,calculate
+TURN THE LAMP OFF,smart_home
+um my boss ko message bhejo see you tomorrow for me,send_message
+SO TELL ME THE CURRENT TIME,get_time
+so how much is 18 minus 14 thanks,calculate
+I want you to give me a laugh,tell_joke
+assistant what is today thanks,get_time
+Could you google history of the internet please,web_search
+Ek joke sunao for me,tell_joke
+Hey assistant how do i install python,web_search
+Yo find mosque near me please,navigate
+ok set the alarm 6:45 am,set_alarm
+work out 2 plus 14 fr me,calculate
+um start the timer for half an hour,set_timer
+so message bhejo mom ko ke i reached home thanks,send_message
+Hey assistant can you who won the latest news now,web_search
+Hey assistant can you 75 + 25 asap,calculate
+assistant send a message to bilal saying good morning,send_message
+Yo count down from 90 seconds,set_timer
+get me up at quarter to seven sharp,set_alarm
+Hey assistant send an email to dad saying i'll be  there in ten minutes,send_message
+take care please,greeting
+So nearest pharmacy kahan hai,navigate
+where is home asap?,navigate
+PLEASE HOW MANY CALORIES IN AN APPLE PLEASE,web_search
+could you find information about pakistan independence day now,web_search
+i want some workout music right now now,play_music
+um renew my passport ka reminder lagao thanks,set_reminder
+BRING ON THE WORKOUT MUSIC,play_music
+ok can you tell me something funny thanks,tell_joke
+tell me a joke,tell_joke
+assistant temperature in sydney right now,get_weather
+hey assistant send dad a message now,send_message
+ok say something fnuny,tell_joke
+120 / 12,calculate
+Assistant i need a reminder to renew my passport,set_reminder
+Hey assistant can you tell the doctor dinner is ready now,send_message
+could you ek joke sunao,tell_joke
+so i need an alarm at 4:45 pm,set_alarm
+I WANT YOU TO NAVIGATE TO MURREE RIGHT NOW,navigate
+i want you to pull up kaggle please,open_website
+good evening thanks,greeting
+i want to open whtasapp asap,open_website
+Assistant let dad know that i am on my way,send_message
+please what can you do now,greeting
+put a timer on for 90 seconds,set_timer
+Hey assistant can you who is quaid e azam,web_search
+yo yaad dilao send the report this weekend,set_reminder
+yo open google drive for me,open_website
+I want you to send my wife a text i'll be there in ten minutes now,send_message
+please how to learn nlp right now,web_search
+hey assistant can you call my boss on speaker,make_call
+um add a reminder water the plants,set_reminder
+how far is the city center now,navigate
+Yo ih assistant,greeting
+Oki  need a timer for 15 minutes for me,set_timer
+hey mujhe yaad dilana ke charge my phone,set_reminder
+Hey assistant thanks,greeting
+Wake me at 4:45 pm right now,set_alarm
+Hey assistant can you dial 555 0199 now,make_call
+compute 120 plus 55 minus 2,calculate
+start gmail,open_website
+Crack ajoke now,tell_joke
+Hey assistant make me laugh,tell_joke
+Hey i feel like listening to closer now,play_music
+yo compose a message for john now,send_message
+start navigation to giga mall asap,navigate
+Um please turn the air conditioner on,smart_home
+so make a call to uncle for me,make_call
+PLEASE MESSAGE HASSAN THAT CALL ME BACK,send_message
+hey set a wake up call for 7:30 am,set_alarm
+Yo find me tutorials on capital of france thanks,web_search
+I want you to look up recipe for biryani thanks,web_search
+ok dad ko call karo,make_call
+i want you to take me to the nearest hospital,navigate
+So mujhe coke studio sunna hai please,play_music
+i want you to hi asap,greeting
+um bring up netflix for me,open_website
+assistant add a reminder send the report,set_reminder
+could you do you know the time,get_time
+hey assistant i need an alarm at 7,set_alarm
+assistant switch off the ac please,smart_home
+Wake me up tomorrow at 6 in the morning thanks,set_alarm
+cheer me up asap,tell_joke
+please i want to know about cricket scores,web_search
+ASSISTANT BEGIN A TIMER OF 45 MINUTES NOW,set_timer
+Ok how cold is it in peshawar this evening for me,get_weather
+blast imrn khan songs now,play_music
+yo funny baat batao now,tell_joke
+ok subtract 300 from 1200,calculate
+please start my workout playlist thanks,play_music
+assistant tell me af unny joke now,tell_joke
+Ok search the web for bitcoin price please,web_search
+hey assistant set a 90 seconds timer,set_timer
+switch on the light,smart_home
+i want you to please turn the lights on,smart_home
+hey google drive ar le jao right now,open_website
+hey check the weather in tokyo asap,get_weather
+hey funny baa batao asap,tell_joke
+so what hour is it,get_time
+ok open my chatgpt for me,open_website
+ok set the theromstat to 26 degrees for me,smart_home
+so tum hi ho chalao now,play_music
+dial ahmed,make_call
+Please put a timer on for 20 mins please,set_timer
+Hey drop a text to hassan dinner is ready thanks,send_message
+hey multan mein kya time ho raha hai,get_time
+Play something rellaxing,play_music
+could youl et usman know that let's meet at the cafe asap,send_message
+Hey music please please,play_music
+so i want to wake up at 7,set_alarm
+yo i  want to talk to my friend now,make_call
+ASSISTANT SET A OOKING TIMER FOR HALF AN HOUR PLEASE,set_timer
+please 250 / 30 right now,calculate
+could you 25 / 2 for me,calculate
+TELL ME ANOTHER JOKE THANKS,tell_joke
+PLEASE SET THE ALARM HALF PAST SIX,set_alarm
+ok where is my office please,navigate
+ok get me up at 7 sharp now,set_alarm
+so put a timer on for 45 seconds for me,set_timer
+can you open google thanks,open_website
+UM HOW MANY CALORIES ARE IN AN EGG,web_search
+could you nice to meet you right now,greeting
+COULD YOU I WANT TO CALL SARA ASAP,make_call
+i want you to send ali a message please,send_message
+HEY PLAY SOME HIP HOP FOR ME,play_music
+i want you to hi assistant,greeting
+play me levitating for me,play_music
+Um start a video call with my boss please,make_call
+hey cheer me up please,tell_joke
+divide 100 by 55 thanks,calculate
+yo how to make tea,web_search
+please long time no see,greeting
+So what is 15 plus 12,calculate
+yo abhi kitne baje hain,get_time
+Send a whatsapp message to uncle saying i am on my way for me,send_message
+please kitchen lights band kar do,smart_home
+yo set my wakeup call for midnight right now,set_alarm
+begin a timer of 5 minutes,set_timer
+um i want ot listen to kesariya right now,play_music
+Assistant how many calories in a banana asap,web_search
+Please note a reminder to attend the meeting at 6:45 am right now,set_reminder
+what's the date thanks,get_time
+Hey assistant can you compose a message for fatima now,send_message
+please salam now,greeting
+yo wake me at half past six please,set_alarm
+is it past 4:45 pm yet,get_time
+calculate 30 percent of 45,calculate
+could you turn the light off,smart_home
+Hey tv off,smart_home
+i want you to message bhejo my boss ko ke i reached home,send_message
+i want you to can you search benefits  of exercise right now,web_search
+set a cooking timer for 45 minutes asap,set_timer
+So aaj mausam kaisa hai,get_weather
+hey assistant can you what's 144 multiplied by 40 for  me,calculate
+UM SHUKRIYA FOR ME,greeting
+HEY SCIKIT LEARN DOCUMENTATION KE BARE MEIN SEARCH KARO THANKS,web_search
+SO CALCULATE 12 TIMES 9 THANKS,calculate
+ok i need a timer for 10 minutes right now,set_timer
+hey assistant hello how are you now,greeting
+HEY ASSISTANT CAN YOU IS IT ALREADY 6 IN THE MORNING FOR ME,get_time
+Could you what time is it in islamabad now,get_time
+assistant ring my friend up,make_call
+START MY WORKOUT PLAYLIST THANKS,play_music
+open the github.com website asap,open_website
+hey assistant put a timer on for 40 seconds,set_timer
+subtract 80 from 36,calculate
+yo give me directions to badshahi mosque thanks,navigate
+15 ko 25 se multiply karo for me,calculate
+MUJHE HASAO PLEASE,tell_joke
+start a 25 minutes countdown,set_timer
+OK NETFLIX KHOLO,open_website
+So make me chuckle,tell_joke
+COULD YOU SEND ZAINAB A TEXT I REACHED HOME,send_message
+temperature in sydney right now now,get_weather
+Assistant ring dad,make_call
+ok text my boss for me,send_message
+how do i get to lahore frot asap?,navigate
+hey search the web for pakistan independence day,web_search
+check the weather in peshawar please,get_weather
+YO OPEN THE FACEBOOK WEBSITE RIGHT NOW,open_website
+hey assistant let my boss know that the meeting is at 5,send_message
+hey assistant can you start chatgpt,open_website
+hey assistant hey asap,greeting
+create a reminder for pick up the kids at 6 in the morning,set_reminder
+history of the internet ke bare mein search karo,web_search
+Assistant current time please,get_time
+hey assistant can you check the weather in murree please,get_weather
+HEY ASSISTANT CAN YOU CURRENT TIME PLEASE,get_time
+i want you to tell me a silly joke now,tell_joke
+could you 64 + 4,calculate
+yo lahore fort ka rasta batao,navigate
+HEY ASSISTANT CAN YOU HOW LONG TO GET TO FAISAL MOSQUE THANKS,navigate
+um how many calories are in a cup of rice,web_search
+yo hi now,greeting
+please turn the ac on please,smart_home
+So what's the time thanks,get_time
+how far is the bus stand for me,navigate
+Hey assistant solve 50 * 55 + 2,calculate
+hey assistant remind me in 5 minutes to pick up the kids now,set_reminder
+howa re things?,greeting
+SO MUJHE HASAO THANKS,tell_joke
+Hey assistant can you set a wake up alarm for 5:30 am thanks,set_alarm
+begin a timer of45 minutes,set_timer
+Assistant weather in multan asap,get_weather
+COULD YOU START NAVIGATION TO MURREE,navigate
+I want some sad songs right now,play_music
+please nearest mosque kahan hai,navigate
+show me results for nlp project ideas right now,web_search
+hey lock the door,smart_home
+hey assistant can you set a reminder to submit the assignment,set_reminder
+i want you to send ayesha a message,send_message
+i want you to is it sunny in tokyo,get_weather
+hey assistant can yo reminder take my medicine at 6:15 for me,set_reminder
+hey assistant can you call sara please,make_call
+i want you to start a 45 minutes timer,set_timer
+Um start a video call with ali asap,make_call
+hey my friend ko whatsapp karo,send_message
+amazon open karo,open_website
+directions to lahore fort,navigate
+could you temperature in rawalpindi right now tanks,get_weather
+um i want to talk to ayesha asap,make_call
+so drive me to my office right now,navigate
+ok set a 10 minutes timer,set_timer
+What time isit now,get_time
+SO SHUT OFF THE LIGHT,smart_home
+Please say a joke thanks,tell_joke
+solve 1200 * 7 + 5 thanks,calculate
+so set timer 15 minutes,set_timer
+Please timer for 25 minutes for me,set_timer
+yo what's up thanks,greeting
+Please will it rain on saturday for me,get_weather
+what's nwe please,greeting
+COULD YOU 9 PLUS 40 KITNE HOTAY HAIN FOR ME,calculate
+ok timer start karo half an hour,set_timer
+please 75 / 3,calculate
+assistant call zainab on speaker now,make_call
+Could you fan jala do asap,smart_home
+yo unlock the door right now,smart_home
+redddit kholo,open_website
+ok tell me a dad joke,tell_joke
+So dial uncle,make_call
+please twitter par le jao,open_website
+Yo what hour is it now,get_time
+um koi latifa sunao right now,tell_joke
+Um open my spotify please,open_website
+yo can you open facebook,open_website
+hey show the train station on themap right now,navigate
+HOW HOT IS IT IN PESHAWAR?,get_weather
+Hey i want to call ahmed please,make_call
+Send usman a message,send_message
+um i'd like to hear some workout music,play_music
+hey what's the time right now,get_time
+Ok i need a timer fo r90 seconds,set_timer
+Hey assistant can you mujhe home jana hai,navigate
+hey assistant can you make a call to my boss please,make_call
+ok will it rain next monday,get_weather
+set a recurring alarm for 7 every weekday,set_alarm
+open the linkedin webite thanks,open_website
+Could you remind me to buy milk next monday,set_reminder
+hey remind me to attend the meeting at 11 am please,set_reminder
+PULL UP GITHUB RIGHT NOW,open_website
+I WANT YOU TO PLEASE CALL ALI PLEASE,make_call
+Could you tell me the current time,get_time
+yo turn the coffee make roff,smart_home
+hey assistant remind me to take my medicine tomorrow,set_reminder
+COULD YOU MUSIC CHALAO RIGHT NOW,play_music
+Could you i feel like listening too closer,play_music
+UM WAHT TIME IS IT,get_time
+let's hear faded for me,play_music
+Navigate to the beach now,navigate
+Hey assistant how much is 1200 minus 16 now,calculate
+I WANT YOU TO ADD A REMINDER DRINK WATER NOW,set_reminder
+Could you can you tell me something funny,tell_joke
+i want you to abhi kitne baje hain,get_time
+subtract 11 from 5,calculate
+PLEASE KOI ACHA SA GANA LAGAO FOR ME,play_music
+could you i want to hear a joke now,tell_joke
+assistant how late is it,get_time
+So get my wife on the phone please,make_call
+could you aaj mausam kaisa hai,get_weather
+hey assistant can you what's the forecast for next monday,get_weather
+please shukriya,greeting
+Ok can you tell me something funny,tell_joke
+could you google par recipe for biryani dhundo,web_search
+Um add a reminder pick up the kids,set_reminder
+hey assistant who is imran khan,web_search
+so lighten the mood with something funny right now,tell_joke
+so current time please for me,get_time
+assistant start a voice call with ali asap,make_call
+koi latifa sunao,tell_joke
+Um remind me to send the report at noon,set_reminder
+hey start youtube.com for me,open_website
+hey assistant can you uncle ko message bhejo i'll be there in ten minutes,send_message
+hey do i need an umbrella todya asap,get_weather
+so search history of the internet on google,web_search
+Could you how to install python,web_search
+hey assistant set a wake up call for 4 am thanks,set_alarm
+calculate 120 times 11 please,calculate
+yo whatsapp john saying see you tomorrow asap,send_message
+Play the song tum hi  ho asap,play_music
+kya haal hai thanks?,greeting
+compute 3 plus 4 minus 100 right now,calculate
+cheer me up please,tell_joke
+murree mein kya time ho raha hai,get_time
+i want you to remind me in half an hour to buy groceries,set_reminder
+assistant reminder to pay the electricity bill on friday,set_reminder
+i want you to mom ko whatsapp aro,send_message
+Coke studio sunao,play_music
+set a timer for 10 minutes asap,set_timer
+yo can you turn off the heater thanks,smart_home
+Please don't let me forget to water the plants,set_reminder
+Please i need a timer for three minutes thanks,set_timer
+Three minutes timer please thanks,set_timer
+Set a timer for 1 hour,set_timer
+give me directions to the beach,navigate
+HEY ASSISTANT CAN YOU SEARCH ABOUT ALAN TURING,web_search
+please whhat is 1200 plus 6 asap,calculate
+so remind me to check my email,set_reminder
+how late is it in rawalpindi asap?,get_time
+yo find bitcoin price,web_search
+twitter open karo right now,open_website
+COULD YOU TELL ME A JOKE PLEASE,tell_joke
+Could you what's the date,get_time
+i want you to take me to the github website,open_website
+yo temperature in tokyo right now thanks,get_weather
+Could you shut off the bedroom light,smart_home
+i wwant you to shukriya,greeting
+Hey assistant can you play atif aslam on spotify,play_music
+Play some jazz right now,play_music
+could you hey right now,greeting
+Hey assistant can you shukriya now,greeting
+START A THREE MINUTES COUNTDOWN FOR ME,set_timer
+Hey assistant can you how do i get to the city center right now,navigate
+so don't let me forget to buy milk now,set_reminder
+hey set the thermostat to 26 degrees now,smart_home
+assistant calculate 12 times 14 now,calculate
+could you start playing nusrat fateh ali khan,play_music
+What's 7 multiplied by 7,calculate
+PLEASE START A ONE MINUTE COUNTDOWN NOW,set_timer
+CANVA OPENK ARO,open_website
+COULD YOU PLAY THE NEXT SONG RIGHT NOW,play_music
+Could you work ou t9 plus 12 right now,calculate
+yo lock the front door,smart_home
+assistant create a reminder for pay the electricity bill at 4 am asap,set_reminder
+gmail open karo,open_website
+ok get me up at 6 am sharp,set_alarm
+hello there for me,greeting
+noon ka alarm set karo,set_alarm
+could you subtract 14 from 7,calculate
+LAUNCH KAGGLE,open_website
+Hey assistant long tim no see,greeting
+nearest hospital for me,navigate
+Hey assistant can you remind me to submit the assignment,set_reminder
+HEY ASSISTANT SET A RECURRING ALARM FOR 7 EVERY WEEKDAY,set_alarm
+Tell me about tf idf explained thanks,web_search
+HEY ASSISTANT I NEED A LAUGH THANKS,tell_joke
+um cheer me up with a joke please,tell_joke
+Hello how are you,greeting
+um open facebook in a new tab,open_website
+assistant bye for me,greeting
+See you later for me,greeting
+Hey mujhe home jana hai now,navigate
+add a reminder study for the exam,set_reminder
+mujhe lofi beats sunna hai asap,play_music
+hey assistant geyser jala do,smart_home
+make a phone call to 03001234567,make_call
+tell me the currentt time please,get_time
+yo how far is the nearest hospital for me,navigate
+please i need a laugh please,tell_joke
+could you pay the electricity bill ka reminder laga oright now,set_reminder
+i want you to can you play someone like you thanks,play_music
+i want you to put some punjabi songs on thanks,play_music
+Um can you set an alarm for quarter to seven thanks,set_alarm
+Please message bilal that good morning now,send_message
+Please how far is badshahi mosque,navigate
+Asistant can you open chatgpt right now,open_website
+hey assistant why is machine learning important asap,web_search
+WHAT IS THE DATE TODAY RIGHT NOW?,get_time
+catch you later,greeting
+make the room cooler right now,smart_home
+PLEASE CALL AHMED ON SPEAKER RIGHT NOW,make_call
+Could you send a whatsapp message to mom saying i'll be there in ten minutes,send_message
+hey assistant can you search how photosynthesis works on google right now,web_search
+I WANT YOU TO IS IT PAST 11 AM YET PLEASE,get_time
+so start a ten minutes countdown,set_timer
+ok say something funny asap,tell_joke
+UM NAVIGATE TO F-10 MARKAZ FOR ME,navigate
+please pull up twitter thanks,open_website
+open my canva thanks,open_website
+CAN YOU SET AN ALARM FOR 6 AM ASAP,set_alarm
+please do you know the time for me,get_time
+Call my sara please,make_call
+Hey assistant remind me to send the report on friday,set_reminder
+Yo remind me to take my medicine this evening,set_reminder
+Assistant mujhe noon par jagana thanks,set_alarm
+i want you to call +923331234567,make_call
+COULD YOU WILL I TRAIN TONIGHT THANKS,get_weather
+Please send a message to usman saying good morning thanks,send_message
+hey assistant can you give my boss a call,make_call
+hey assistant can you start gmail for me,open_website
+so remind me in 15 minutes to send the report thanks,set_reminder
+hey connect me with ayesha thanks,make_call
+i want you to whatsapp par le jao for me,open_website
+Hey assistant can you how much is 250 minus 2,calculate
+Hey lighten the mood with something funny thanks,tell_joke
+um remind me in 20 mins to book tickets,set_reminder
+hey assistant say  a joke for me,tell_joke
+Could you search recipe for biryani on google right now,web_search
+ok hey buddy,greeting
+assistant kya haal hai,greeting
+assistant nice to see you for me,greeting
+could you can you set an alarm for half past six please,set_alarm
+bring on the hip hop now,play_music
+ring hamza please,make_call
+so set a timer fro 30 seconds,set_timer
+wake me up tomorrow at 4:45 pm for me,set_alarm
+Play the next songfor me,play_music
+Um start navigation to f-10 markaz now,navigate
+what is 12 plus 80 please?,calculate
+gana chalao asap,play_music
+hey assistant can you what time is it in toronto,get_time
+the doctor ko call karo,make_call
+add a reminder pick up te kids please,set_reminder
+assistant turn on some music,play_music
+hey assistant set a reminder for tomorrow morning to book tickets now,set_reminder
+assistant make me smile please,tell_joke
+so make a note to remind me to water the plants please,set_reminder
+Hey note a reminder to go to the gym at 4:45 pm,set_reminder
+assistant bilal se baat karao now,make_call
+Could you note a reminder to submit the assignment at 4:45 pm,set_reminder
+text ahmed,send_message
+OK ENTERTIAN ME,tell_joke
+SHOW ME THE PESHAWAR WEATHER,get_weather
+ASSISTANT THANKS,greeting
+SO WHAT'S TODAY'S DATE FOR ME,get_time
+assistant i'm bored say something funny now,tell_joke
+could you is it sunny in multtan,get_weather
+good afternoon,greeting
+call 555 199 for me,make_call
+FNUNY BAAT BATAO,tell_joke
+Funny baat batao right now,tell_joke
+open my google dirve please,open_website
+um air conditioner jala do for me,smart_home
+um tell me another joke asap,tell_joke
+I want you to take me to the stackoverflow website,open_website
+Navigate to the city center please,navigate
+tell me the time,get_time
+Crack a joke right now,tell_joke
+hey assistant can you send usman a message now,send_message
+yo mujhe the university jana hai for me,navigate
+drop a text to hamza the meeting is at 5,send_message
+So show me the tokyo weather asap,get_weather
+assistant go to youtube website,open_website
+Hey assistant mujhe tum hi ho sunna hai now,play_music
+CALL HASSAN ON SPEAKER,make_call
+Could you music chalao,play_music
+weather today please,get_weather
+Could you google par albert einstein dhundo now,web_search
+i'm bored sy something funny,tell_joke
+I want you to send a whatsapp message to ali saying happy birthday for me,send_message
+i want you to compose a message for ahmed right now,send_message
+SO CHEER ME UP FOR ME,tell_joke
+hey assistant can you make a phone call to 555 0199 right now,make_call
+i wnt you to aaj mausam kaisa hai now,get_weather
+Hey assistant what is today,get_time
+mujhe 6:45 am par jagana for me,set_alarm
+hey what hour is it for me,get_time
+could you reminder to efed the cat next monday,set_reminder
+could you reminder take my medicine at 3:15 pm please,set_reminder
+please send a whatsapp message to hassan saying the meeting is at 5,send_message
+find supermarket near me,navigate
+HEY ASSISTANT CAN YOU SWITCH OF THE AC,smart_home
+coul you queue up shape of you please,play_music
+hey assistant tell me a dad joke please,tell_joke
+please aaj mausam kaisa hai,get_weather
+hey assistant wake me up at midnight,set_alarm
+so what's the time in islamabad right now right now,get_time
+search images of pakistan independence day asap,web_search
+count down from 1 hour thanks,set_timer
+Hey assistant pull up whatsapp thanks,open_website
+um put a timer on for 20 mins please,set_timer
+Hey what is the temperature in new york now,get_weather
+Assistant current date,get_time
+Tell me another joke asap,tell_joke
+let's hear afren afreen thanks,play_music
+So find the way to murree,navigate
+yo hey now,greeting
+write a message o uncle,send_message
+assistant lock the front door,smart_home
+please how are you asap,greeting
+yo set timer 90 seconds now,set_timer
+Yo write a message to lai asap,send_message
+hey start a ten minutes countdown,set_timer
+mujhe coke studio sunna hai now,play_music
+OK WHAT'S THE TIME IN RAWALPINDI RIGHT NOW,get_time
+so lights off please,smart_home
+assistant set timer an hour,set_timer
+ok count down fom an hour asap,set_timer
+So subtract 11 from 3 now,calculate
+throw on arijit singh,play_music
+yo will it rain today,get_weather
+hey assistant load github.com,open_website
+hey assistant can you assalam o alaikum for me,greeting
+timer start karo 30 seconds now,set_timer
+yo i'd like to hear some hip hop,play_music
+how far is giga mall now,navigate
+could you connect me to john,make_call
+HEY MESSAGE BHEJO ZAINAB KO KE DINNER IS READY,send_message
+could you schedule an alarm at half past six,set_alarm
+WHAT'S THE WEATHERR TOMORROW MORNING RIGHT NOW,get_weather
+um find history of the internet,web_search
+hey assistant can you remind me to pay the electricity bill at 10 pm now,set_reminder
+hey assistant twitter open karo,open_website
+Please find how photosynthesis woks right now,web_search
+Hey set the alarm midnight,set_alarm
+um i want to open wikipedia now,open_website
+please give me directions to the beach thanks,navigate
+could you how hot is it in multan,get_weather
+Subtract 55 from 144 asap,calculate
+hey do you know the time,get_time
+assalam o alaikum kaise ho,greeting
+hey assistant can you timer start karo 1 minute,set_timer
+could you facebook par le jao,open_website
+hey play believer,play_music
+could you coffee maker on karo,smart_home
+um alarm please for 7 please,set_alarm
+assistant i want to wake up at 6 in the morning now,set_alarm
+hey assistant can you phone bilal,make_call
+lighten the mood with something funny,tell_joke
+Could you 18 + 4 asap,calculate
+SO AAJ MAUSAM KAISA HAI RIGHT NOW,get_weather
+call fatima,make_call
+Start a video call with my brother please,make_call
+could you give me directions to the city center thanks,navigate
+um music chalao,play_music
+shut off the bathroom lgiht thanks,smart_home
+So create an alarm for seven thirty for me,set_alarm
+Open my amazon,open_website
+could you turn off the tv thanks,smart_home
+Say something funny asap,tell_joke
+what's the forecast for on friday now,get_weather
+hey what is 20 plus 9 right now,calculate
+ok dim the lights thanks,smart_home
+what can you do please?,greeting
+Message uncle that see you tomorrow,send_message
+I want you to entertain me right now,tell_joke
+HEY WEATHER TODAY,get_weather
+so open kaggle,open_website
+Hey start a 45 seconds countdown asap,set_timer
+hey assistant can you how are things,greeting
+hey search flask tutorial on google,web_search
+assistant can you tell me something funny thanks,tell_joke
+what's today's date,get_time
+ok weather today right now,get_weather
+PLEASE HOW ARE YOU THANKS,greeting
+dial +923331234567,make_call
+hey assistant set a reminder to feed the cat please,set_reminder
+set a recurring alarm for 4 am every weekday,set_alarm
+assistant turn off the kitchen lgihts for me,smart_home
+assistant lauunch linkedin please,open_website
+work out 8 pluus 30,calculate
+so how do i get to murree,navigate
+assistant see you please,greeting
+assistant what is best laptopss under 1000 dollars right now,web_search
+Play bad guy please,play_music
+yo open github in a new tab,open_website
+assistant arijit singh sunao for me,play_music
+Can you tell me something funny?,tell_joke
+Funny baat bataor ight now,tell_joke
+hey assistant make a note to remind me to call the bank,set_reminder
+So time kya hua hai,get_time
+who is alan turing?,web_search
+please directions to the city center,navigate
+I WANT YOU TO DIAL 0321 5551234 FOR ME,make_call
+alarm lagao 6:15 ka,set_alarm
+ok open spotify for me asap,open_website
+Could you what day is it today asap,get_time
+ok add a new alarm for 5:00 now,set_alarm
+Please help thanks,greeting
+so call ali on speaker right now,make_call
+um is it sunny in istanbul now,get_weather
+Call mom on speaker right now,make_call
+So i want to call ali for me,make_call
+UM REMIND ME TO SEEND THE REPORT ASAP,set_reminder
+I want you to open the instagram website asap,open_website
+HEY GOOGLE IPHONE PRICE,web_search
+PLEASE WHAT'S 1200 MULTIPLIED BY 25,calculate
+could you what time is it in karachi,get_time
+hey send hassan a text happy birthday,send_message
+call dad,make_call
+launch netflix please,open_website
+assistant turn on the geyser,smart_home
+i want you to reminder study for the exam att 9 pm now,set_reminder
+Assistant timer for half an hour please,set_timer
+please make a phone call to +923331234567 right now,make_call
+time check please,get_time
+Remind me to charge my phone on friday right now,set_reminder
+could you wake me up tomorrow at 7 right now,set_alarm
+could you yaad dilao call the plumber tonight,set_reminder
+hey assistant good morning,greeting
+assistant what's today's date thanks,get_time
+So search images of cricket scores asap,web_search
+Um what is 30 percent of 50,calculate
+so see you right now,greeting
+set a reminder to attend the meeting,set_reminder
+um i need an alarm at 6 am right now,set_alarm
+hey start the timer for a minute please,set_timer
+Hey assistant bathroom light off asap,smart_home
+turn it up a bit warmer thanks,smart_home
+Begin a timer of 45 minutes asap,set_timer
+i want you to send the meeting is at 5 to ahmed,send_message
+i need a reminder to go to the gym asap,set_reminder
+hey assistant what day is it today for me,get_time
+how's the weather otday,get_weather
+HEY FIND ME TUTORIALS ON BEST LAPTOPS UNDER 1000 DOLLARS,web_search
+um amazon open karo please,open_website
+Um what' sthe date for me,get_time
+i want you to give me directions to centaurus mall,navigate
+could you let me hear some hip hop hwile i work thanks,play_music
+Hey assistant bye please,greeting
+I want you to play arijit singh on spotify now,play_music
+coffee maker band kar do,smart_home
+Begin a timer of 1 hour right now,set_timer
+please how long to get to murree asap,navigate
+SO DROP A TEXT TO AHMED WHERE ARE YOU,send_message
+assistant how doo i get to my office right now,navigate
+So what day is it today for me,get_time
+is it sunny in islamabad,get_weather
+ok catch you later now,greeting
+play something relaxing,play_music
+ASSISTANT FIND INFORMATION ABOUT FOOTBALL WORLD CUP WINNERS PLEASE,web_search
+hey make me chuckle,tell_joke
+So amazon kholo,open_website
+I want to listen to tum hi ho asap,play_music
+Assistant send an email to uncle saying i reached home thanks,send_message
+i'd like to har some bollywood songs,play_music
+HEY ASSISTANT LET MY BROTHER KNOW THAT I REACHED HOME ASAP,send_message
+Ok find stock market today,web_search
+can you time an hour for me form e,set_timer
+um send a message to john saying i will be late right now,send_message
+hey assistant can you funny baat batao,tell_joke
+go to github.com website,open_website
+navigate to the nearest hospital,navigate
+assistant take me to the chatgpt website thanks,open_website
+please send an sms to usman,send_message
+HEY ASSISTANT 144 KO 9 SE MULTIPLY KARO,calculate
+Please visit instagram thanks,open_website
+I want you to don't let me forget to feed the cat now,set_reminder
+tell me the time thanks,get_time
+HEY ASSISTANT WRITE A MESSAGE TO ALI FOR ME,send_message
+hey assistant can you make me chuckle,tell_joke
+assalam o alaikum for me,greeting
+um start navigation to badshahi mosque,navigate
+yo please wake me at 5 pm tomorrow thanks,set_alarm
+Hey make a phone call to 0321 5551234 asap,make_call
+ASSSISTANT ROUTE TO THE CITY CENTER THANKS,navigate
+Hey assistant wake e up tomorrow at 5:30 am,set_alarm
+yo timer for 2 hours thanks,set_timer
+I want you to assalam o alaikum kaise ho now,greeting
+um tell me a dad joke thanks,tell_joke
+hey charge my phone ka reminder lagao,set_reminder
+so heater band kar do asap,smart_home
+yo bedroom light band karo,smart_home
+kya aaj barish hogi right now?,get_weather
+please how cold is it in karachi tomorrow,get_weather
+Um is it past 6:15 yet,get_time
+YO TURN ON SOME MUSIC ASAP,play_music
+greetings asap,greeting
+hey assistant what can you do,greeting
+yo route to the bus stand please,navigate
+I want you to say something funny,tell_joke
+Could you take me to giga mall asap,navigate
+TELL ME ABOUT TF IDF EXPLAINED,web_search
+sen dfatima a text thanks for the help,send_message
+ok can you open gmail thanks,open_website
+so load github.com now,open_website
+please set alarm 5:03 am for me,set_alarm
+Pull up reddit,open_website
+unlock the door now,smart_home
+plesae what is the date today,get_time
+set a recurring alarm for half past six every weekday please,set_alarm
+difference between weather and climmate,web_search
+YO 50 KO 300 SE MULTIPLY KARO,calculate
+hey assistant can you how much is 2 minus 9,calculate
+don't let me forget to pay the electricity bill asap,set_reminder
+can youp lay arijit singh right now,play_music
+What's 7 times 300 irght now,calculate
+YO PUT SOME WORKOUT MUSIC ON ASAP,play_music
+long time no see,greeting
+Show me the murree weather asap,get_weather
+i want you to remind me about call the plumber this weekend,set_reminder
+Please say something ffunny asap,tell_joke
+Yo dim the lights,smart_home
+yo shukriya thanks,greeting
+hey how do i elarn nlp for me,web_search
+ok whatsapp bilal see you tomorrow,send_message
+Add a new alarm for 3:15 pm thanks,set_alarm
+yo blast afreen afreen,play_music
+HEY ASSISTANT WHAT IS 20 PERCENT OF 144 PLEASE,calculate
+yo launch youtube,open_website
+yo take care asap,greeting
+hey assistant can you kya haal hai,greeting
+i want you to set the alarm 4 am,set_alarm
+I want you to find mosque near me,navigate
+I wantt you to ek joke sunao right now,tell_joke
+So let fatima know that i will be late,send_message
+hey begin a timer of ten minutes,set_timer
+um how long to get to giga mall for me,navigate
+assistant what's 2 times 55,calculate
+Pelase load google drive thanks,open_website
+I WANT YOU TO CALL 0300 1112223 FOR ME,make_call
+I WANT YOU TO HELLO HOW ARE YOU THANKS,greeting
+Send see you tomorrow to hassan,send_message
+Hey assistant what's today's date,get_time
+Please play arijit singh on spotify,play_music
+Multiply 20 by 7 asap,calculate
+COMPUTE 12 PLUS 4 MINUS 2 THANKS,calculate
+queue up levitating thanks,play_music
+Please make me laugh right now,tell_joke
+SO SET ALARM MIDNIGHT FOR ME,set_alarm
+Send a message to dad saying thanks for the help now,send_message
+set a timer for 45 seconds for me,set_timer
+OK IS IT ALREADY 5:00 RIGHT NOW,get_time
+HEY COULD YOU PUT ON SOME POP MUSIC THANKS,play_music
+um put a timer on for 20 mins thanks,set_timer
+Hi asap,greeting
+UM SHOW ME THE TORONTO WEATHER NOW,get_weather
+Hey assistant can you imran khan songs sunao asap,play_music
+so kya haal hai thanks,greeting
+yo set a wake up alarm for 7:30 am,set_alarm
+greetings,greeting
+start navigation to lahore fort,navigate
+hey assistant can you play music thanks,play_music
+please open reddit in a new tab please,open_website
+so reminder charge my phone at noon please,set_reminder
+i want you to what is 15 percent fo 75 asap,calculate
+hey alarm lagao 8 o'clock ka,set_alarm
+yo add a reminder drink water please,set_reminder
+please look for cheap how photosynthesis works,web_search
+hey get ahmed on the phone,make_call
+please remindm e to pick up the kids,set_reminder
+OK WHO WON THE STOCK MARKET TODAY ASAP,web_search
+do i need an umbrella today,get_weather
+So please remind me to buy groceries tomorrow for me,set_reminder
+assistant send a whatsapp message to my boss saying call me back right now,send_message
+My brother ko whatsapp karo please,send_message
+hey how are things right now,greeting
+assistant load youtube,open_website
+coulld you who is imran khan please,web_search
+Um temperature in dubai right now for me,get_weather
+HEY ASSISTANT CAN YOU GREETINGS ASAP,greeting
+ok send an sms to ayesha,send_message
+please entertain me,tell_joke
+Hey say a joke,tell_joke
+Load whatsapp,open_website
+so good evening,greeting
+compute 9 plus 7 minus 20,calculate
+Hey send a message to my boss saying i'll be there in ten minutes thanks,send_message
+current time please please,get_time
+hey map of f-10 markaz,navigate
+khuda hafiz,greeting
+hey send a message to hamza saying where are you,send_message
+Could you turn it up a bit warmer asap,smart_home
+Um set my alarm to 4:45 pm for me,set_alarm
+i want you to 15 minutes ka timer lagao right now,set_timer
+Tell my brother the meeting is at 5 please,send_message
+so put a timer on for 10 minutes,set_timer
+hey whatsapp hassan the meeting is at 5,send_message
+wake me up tomorrow at 9 pm,set_alarm
+Is it cold outside right now,get_weather
+Timer for one minute,set_timer
+Start a voice call with my brother thanks,make_call
+current date right now,get_time
+what's the date right now,get_time
+book tickets ka reminder lagao,set_reminder
+hey assistant see you for me,greeting
+Write a message to fatima thanks,send_message
+set my alarm to 4:45 pm please,set_alarm
+yoo can you time 40 seconds for me,set_timer
+solve 8 * 4 + 2,calculate
+Ok ek joke sunao,tell_joke
+tell me a dad joke please,tell_joke
+sya a joke asap,tell_joke
+i want you to whatsapp my brother i will be late,send_message
+YO CALL MY HASSAN,make_call
+Ok go to github.com website right now,open_website
+Yo timer for two minutes,set_timer
+Ok air conditioner band karo righ tnow,smart_home
+ok send ahmed  a message now,send_message
+please start the timer for 40 seconds,set_timer
+hey i want to know about nlp project ideas,web_search
+Get me up at quarter to seven sharp for me,set_alarm
+hey assistant koi latifa sunao,tell_joke
+hey assistant play the next song,play_music
+S aaj mausam kaisa hai,get_weather
+HEY ASSISTANT CAN YOU CREATE A REMINDER FOR CALL THE BANK AT 10 PM,set_reminder
+ok good afteroon,greeting
+Yo 7 ko 10 se multiply karo now,calculate
+could you count down from 30 seconds asap,set_timer
+So 1 minute ka timer lagao,set_timer
+um switch on the lamp thanks,smart_home
+SO MUJHE YAAD DILANA KE CALL THE PLUMBER ASAP,set_reminder
+could you will it rain next monday please,get_weather
+OK WHO WON THE SCIKIT LEARN DOCUMENTATION THAKS,web_search
+could you weathe rin dubai,get_weather
+please timer for 45 seconds,set_timer
+turn off the coffee maker please,smart_home
+Assistant weather in tokyo for me,get_weather
+so find me python tutorials,web_search
+i want you to can you time ten minutes for me right now,set_timer
+what's the forecast for this weekend please,get_weather
+could you abhi kitne baje hain right now,get_time
+CAN YOU OPEN NETFLIX THANKS?,open_website
+Hey assistant blast bohemian rhapsody for me,play_music
+IS ITA LREADY SEVEN THIRTY PLEASE?,get_time
+hey i want to hear a joke for me,tell_joke
+what is 5 ppercent of 25 thanks,calculate
+Hey send i reached home to john,send_message
+Nearest reestaurant asap,navigate
+Find me tutorials on python tutorials,web_search
+YO WRITE A MESSAGE TO MY WIFE,send_message
+i want you to tell me the time for me,get_time
+hey assistant can you what time is it,get_time
+please remind me to feed the cat this evening now,set_reminder
+Route to home,navigate
+yo kitchen lights on karo asap,smart_home
+hey assistant can you two minutes timer please please,set_timer
+meaning of history of the internet,web_search
+hey assistant can you mujhe  badshahi mosque jana hai,navigate
+hey set timer 5 mnutes,set_timer
+Um ring uncle up for me,make_call
+hey i'm bored say something funny right now,tell_joke
+open my amazo nplease,open_website
+i want you to subtract 11 from 36 for me,calculate
+Ok pull up amazon,open_website
+yo begin a timer of 15 minutes,set_timer
+i want you to remind me in two minutes to take my medicine thanks,set_reminder
+do you know any jokes,tell_joke
+HEY ASSISTANT RING DA DFOR ME,make_call
+I want to talk to zainab,make_call
+Um cheer me up,tell_joke
+Assistant a minute ka timer lagao thanks,set_timer
+So set an alarm for seven thirty,set_alarm
+could you ring my brother thanks,make_call
+ok open youtube in a new tab,open_website
+so i'm in the mood for qawwali asap,play_music
+HOW LATE IS IT IN PESHAWAR RIGHT NOW,get_time
+so route to the bus stand asap,navigate
+coul dyou play taylor swift now,play_music
+assistant why is  latest news important for me,web_search
+could you hey,greeting
+SUBTRACT 10 FROM 5,calculate
+so play hip hop on spotify now,play_music
+I want you to tell me the current time now,get_time
+hey open the linkedin website for me,open_website
+Play rock on spotify,play_music
+so remind me about submit the assignment tomorrow morning,set_reminder
+hey what is 25 percent of 18 now,calculate
+Hey assistant remind me about drink water today now,set_reminder
+let me hear some pop music while i work,play_music
+ASSISTANT WHAT'S THE DATE NOW,get_time
+5 minutes ka timer lagao,set_timer
+hey assistant can you lighhten the mood with something funny,tell_joke
+Hey bring up google drive asap,open_website
+is it past 5:00 yet asap?,get_time
+i want you to i want to hear a joke,tell_joke
+Weather today,get_weather
+COULD YOU LIGHTEN THE MOOD WITH SOMETHING FUNNY NOW,tell_joke
+Assistant i want to hear a joke for me,tell_joke
+Play music for me,play_music
+Hey assistant please remind me to drink water next monday,set_reminder
+Hey assistant connect me to sara for me,make_call
+what is the time in tokyo,get_time
+OK TOKYO KA MAUSAM BATAO PLASE,get_weather
+um i want to know about bitcoin price,web_search
+what's the weather like in paris,get_weather
+aaj mausam kaisa hai,get_weather
+hey start navigation to home,navigate
+remind me about submit the assignment tonight,set_reminder
+hey alarm for 3:15 pm tomorrow morning,set_alarm
+bring up spotify for me,open_website
+i want you to phone ayesha,make_call
+So shut off the bedroom light for me,smart_home
+hey say something funny,tell_joke
+I WANT YOU TO HOW'S YOUR DAY,greeting
+what's the time,get_time
+could you multiply 1200 by 300,calculate
+assistant find coffee shop near me,navigate
+please lock the door please,smart_home
+call my ahmed,make_call
+hey assistant cna you how many calories in an egg,web_search
+i want you to play me afreen afreen,play_music
+so  2 * 55,calculate
+how are things now?,greeting
+ALARM LAGAO 8:30 IN THE EVENING KA THANKS,set_alarm
+hey can you play shape of you,play_music
+um start playing nusrat fateh ali khan,play_music
+could youc an you open stackoverflow,open_website
+Set a timer for 30s econds thanks,set_timer
+So what's the date thanks,get_time
+please show me results for latest news,web_search
+so mujhe yaad dilana ke renew my passport thanks,set_reminder
+meaning of machine learning,web_search
+I want you to time now for me,get_time
+could you call 555 0199,make_call
+assistant reminder to submit the assignment tomorrow morning for me,set_reminder
+Could you is it sunny in quetta,get_weather
+show me the berlin weather,get_weather
+hey assistant can you 9 + 80,calculate
+hey assistant lock the front door asap,smart_home
+hey assistant can you wikipedia par le jao asap,open_website
+assistant do you know the time,get_time
+Hey assistant what's the forecast for tomorrow asap,get_weather
+please remind me about take my medicine next monday right now,set_reminder
+Ok switch the lamp on asap,smart_home
+Um tell me a joke now,tell_joke
+square root of 144 thanks,calculate
+Gana chalao now,play_music
+So i need a laugh please,tell_joke
+could you tell me the weather asap,get_weather
+Please 8 ko 80 se multiply karo thanks,calculate
+Um text mom dinner is ready,send_message
+ok show me the faisalabad weather for me,get_weather
+i want you to write a message to fatima please,send_message
+hey assistant begin a timer of half an hour,set_timer
+Let me hear some bollywood songs while i work,play_music
+i want yyou to how's the weather today thanks,get_weather
+could you make a phone call to +923331234567 for me,make_call
+so calculate 20 percent of 64,calculate
+YO START A VIDEO CALL WITH THE DOCTOR,make_call
+assistant what's the weather next monday,get_weather
+could you phone call to ali thanks,make_call
+Ok nearest hospital kahna hai asap,navigate
+ok shut off the lamp right now,smart_home
+make the room cooler asap,smart_home
+how long to get to lahore fort?,navigate
+I WANT YOU TO WHAT IS TODAY,get_time
+Could you start navigation to centaurus mall,navigate
+Assistant set a timer for ten minutes right now,set_timer
+OK AAJ MAUSAM KAISA HAI FOR ME,get_weather
+HEY SWITCH OFF THE LIGHT FOR ME,smart_home
+yo islamabad ka mausam batao now,get_weather
+Is it cod outside?,get_weather
+please don't let me forget to submit the assignment,set_reminder
+so call the plumber ka reminder lagao for me,set_reminder
+Please turn the heater on,smart_home
+assistant play jazz on spotify thanks,play_music
+set timer 40 seconds thanks,set_timer
+ok phone ojhn asap,make_call
+ok how late is it in islamabad for me,get_time
+Ok tell me about recipe for biryani,web_search
+call customer care at 555 0199 please,make_call
+set an alarm for 7 please,set_alarm
+could you multiply 100 by 2,calculate
+Assistant give my brother a call,make_call
+Um open my instagram now,open_website
+hey assistant nearest restaurant kahan hai please,navigate
+could you hey there,greeting
+ok please turn the porch light on,smart_home
+I'm bored say something funny asap,tell_joke
+Yo make the room cooler,smart_home
+hey assistant give ayesha a call for me,make_call
+Could you show me the faisalabad weather,get_weather
+HEY CAN YOU SEARCH CAPITAL OOF FRANCE ASAP,web_search
+Assistant alarm at 10 pm rigt now,set_alarm
+YO HOW'S YOUR DAY,greeting
+hey assistant can you cheer me upw ith a joke thanks,tell_joke
+Ok how long to get to my office right now,navigate
+hey start a 15 minutes countdown asap,set_timer
+could you send my wife a text let's meet at the cafe now,send_message
+ROUTE TO BADSHAHI MOSQUE FOR ME,navigate
+um set the alarm 6:45 am for me,set_alarm
+What time is it now?,get_time
+hey assistant can youshow me results for stock market today right now,web_search
+Hey assistant can you play some tunes thanks,play_music
+HEY SUBAH 4:45 PM BAJE ALARM LAGAO,set_alarm
+Compose a message for my boss thanks,send_message
+Hey send my brother a text good morning,send_message
+um lock the frontt door,smart_home
+Can you turn off the light?,smart_home
+how hot is it in murree,get_weather
+So write a message to john thanks,send_message
+Um send ali a message,send_message
+Hey assistant youtube par le jao for me,open_website
+so put on someone like you,play_music
+remind me about pay the electricity bill tomorrow,set_reminder
+So subah 6 am baje alarm lagao,set_alarm
+i want you to send see you tomorrow to my brother please,send_message
+yo music chalao right now,play_music
+Yo alarm for 7:30 am tomorrow morning,set_alarm
+Hey assistant can you i'm in the mood for bollwood songs,play_music
+hey assistant tell me about tf idf explained now,web_search
+i want you to solve 500 * 3 + 1 now,calculate
+um what is 100 plus 14 please,calculate
+Hey tell me the weather now,get_weather
+Find hotel near me thanks,navigate
+So what's new for me,greeting
+Set a half an hour timer thanks,set_timer
+what does how photosynthesis works mean thanks,web_search
+Hey assistant can you how do i get to badshahi mosque,navigate
+OK BEGIN A TIMER OF 15 MINUTES FOR ME,set_timer
+so set a cooking timer for a minute,set_timer
+Set an alarm for 5:30 am,set_alarm
+could you play the song lofi beats,play_music
+Google par recipe for biryani dhundo now,web_search
+start a 20 mins countdown,set_timer
+YO REMIND ME TO ATTEND THE MEETING TONIGHT,set_reminder
+Assistant whatsapp hassan thanks for the help,send_message
+what's 7 multipied by 55 now,calculate
+john se baat karao,make_call
+HEY HOW DO I LEARN NLP,web_search
+yo set a recurring alarm for midnight every weekday now,set_alarm
+SO MESSAGEHASSAN THAT HAPPY BIRTHDAY,send_message
+PLEASE SEARCH THE WEB FOR PAKISTAN INDEPENDENCE DAY THANKS,web_search
+Yo weather in lahore,get_weather
+So funny baat batao,tell_joke
+um what is the temperature in tokyo,get_weather
+um switch off the ac,smart_home
+I want you to find information about best laptops under 1000 dollars now,web_search
+12 X 300 THANKS,calculate
+Put a timer on for 40 seconds for me,set_timer
+please remind me to send the report right now,set_reminder
+um good morning thanks,greeting
+pull up kaggle right now,open_website
+25 minus 6 equals,calculate
+could you assalam o alaikum,greeting
+Please work out 15 plus 10 thanks,calculate
+hey set the ac to 24,smart_home
+assistant drop a text to bilal dinner is ready right now,send_message
+how to learn nlp,web_search
+UM BATHROOM LIGHT JALA DO,smart_home
+set my wakeup call for 9 pm,set_alarm
+assistant i want to open canva thanks,open_website
+Hey bathroom light band kar do,smart_home
+thanks now,greeting
+Could you alarm at noon please,set_alarm
+please weather today asap,get_weather
+ok rawalpindi mein kya time ho raha hai now,get_time
+phone call to ali,make_call
+i want you to let me hear some sad songs while i work right now,play_music
+hey assistant can you tell me a dad joke right now,tell_joke
+um remind me about buy groceries this weekend,set_reminder
+um throw on someone like you,play_music
+how ho tis it in multan right now,get_weather
+SO MAP OF MURREE,navigate
+HEY ASSISTANT CAN YOU FIND CRICKET SCORES,web_search
+set a cooking timer for 10 minutes,set_timer
+Hey assistant sydney mein kya time ho raha hai asap,get_time
+ok what's the time,get_time
+hey assistantt set a timer for a minute,set_timer
+how far is my office for me,navigate
+yo send an sms to bilal thanks,send_message
+compose a message for fatima,send_message
+OK CENTAURUS MALL KA RASTA BATAO THANKS,navigate
+play some tunes,play_music
+assistant weather in karachi please,get_weather
+I want to wake up at half past six asap,set_alarm
+100 / 300,calculate
+Tell me a dad joke,tell_joke
+mujhe hasao now,tell_joke
+I want you to let's hear perfect,play_music
+send ayesha a text i am on my way asap,send_message
+I want you to start a voice call with ahmed,make_call
+hey can you search machine learning asap,web_search
+um call ahmed please,make_call
+call my usman for me,make_call
+could yyou 7 - 30,calculate
+yo what's the time in paris right now,get_time
+um music please now,play_music
+assistant make me laugh for me,tell_joke
+ok 45 x14 right now,calculate
+HEY ASSISTANT AAJ MAUSAM KAISA HAI FOR ME,get_weather
+Hey assistant hey now,greeting
+hey assistant look for cheap python tutorials thanks,web_search
+Load youtube.com,open_website
+Please load wikipedia,open_website
+thanks a lot,greeting
+yo subtraact 6 from 1200 please,calculate
+alarm for 4:45 pm tomorrow morning,set_alarm
+nearest bank please,navigate
+SET MY ALARM TO 7:30 AM RIGHT NOW,set_alarm
+please zainab ko call karo,make_call
+find me tutorials on best laptops under 1000 dollars now,web_search
+could you message my friend that let's meet at the cafe,send_message
+Could you what is the time in multan asap,get_time
+could you can you time 90 seconds for me asap,set_timer
+hey assistant bitcoin price ke bare mein search karo please,web_search
+so is it going to rain in sydney,get_weather
+um what time is it in sydney thanks,get_time
+assalma o alaikum,greeting
+Compute 7 plus 300 minus 100 now,calculate
+yo go to instagram website please,open_website
+i want you to kya aaj barish hogi please,get_weather
+Please wikipedia par le jao asap,open_website
+hey turn on some music,play_music
+What hour is it,get_time
+reminder call the bank at 6:45 am,set_reminder
+How far is badshahi mosque,navigate
+UM WHOO ARE YOU,greeting
+remind me to call the plumber this evening,set_reminder
+ok set the ac to 22 now,smart_home
+hey assistant tell me a short joke,tell_joke
+give me a laugh right now,tell_joke
+so what day is it todaay please,get_time
+closest hotel to me,navigate
+please let hamza know that the meeting is at 5 please,send_message
+i want you to open my reddit for me,open_website
+um 144 - 4,calculate
+assistant kitchen lights off,smart_home
+Is it sunny in multan right now,get_weather
+start a 45 seconds timer now,set_timer
+Please koi latifa sunao,tell_joke
+yo netflix kholo,open_website
+get my friend on the phone asap,make_call
+hey connect me with dad,make_call
+drop a text to usman the meeting is at 5,send_message
+uncleko whatsapp karo,send_message
+hey assistant can you i want to open github.com thanks,open_website
+turn off the air condiioner please,smart_home
+Um how ffar is the city center,navigate
+i want you to navigate to the airport,navigate
+hey assistant show faisal mosque on the map right now,navigate
+yo what's up,greeting
+assistant is it past 4 am yet,get_time
+please go to github.com website,open_website
+so canva par le jao thanks,open_website
+Begin a timer of 30 seonds,set_timer
+set a wake up alarm for 5:00 right now,set_alarm
+UM THANK YOU,greeting
+please closest pharmacy to me for me,navigate
+send an email to my brother saying let's meet at the cafe,send_message
+Um bring on the rock,play_music
+Um ten minutes ka timer lagao thanks,set_timer
+ok why is flask tutorial important,web_search
+countdown 5 minues please,set_timer
+um schedule an alarm at 8 o'clock,set_alarm
+please what hour is it in sydney,get_time
+so whatsapp hassan where are you,send_message
+Hey assistant entertain me,tell_joke
+coulld you let's hear bad guy,play_music
+assistant get me up at 6 in the morning sharp right now,set_alarm
+Koi latifa sunao please,tell_joke
+blast atif aslam please,play_music
+Hey text fatima i am on my way for me,send_message
+ASSISTANT NAVIGATE TO CENTAURUS MALL,navigate
+hey assistant switch off the fan thanks,smart_home
+i want you to open my google now,open_website
+ok yaad dilao send the report tomorrow,set_reminder
+Check the weather in quetta for me,get_weather
+15 x 16,calculate
+assistant tell me the weather asap,get_weather
+Um set a reminder to study for the exam thanks,set_reminder
+please can you open facebook please,open_website
+Hey assistant can you find the way to badshahi mosque,navigate
+Please dail usman,make_call
+i want you to what is the temperature in tokyo asap,get_weather
+Abhi kitne baje hain thanks?,get_time
+set a wake up call for 5:30 am,set_alarm
+Could you github open karo,open_website
+ok show me the peshawar weather asap,get_weather
+Yo daraz par le jao,open_website
+assistant get ayesha on the phone now,make_call
+is it going to rain in tokyo for me?,get_weather
+hey message zainab that call me back now,send_message
+ok tell fatima call me back now,send_message
+Hey nice to meet you lease,greeting
+Hey play bollywood songs on spotify asap,play_music
+40 SECONDS KA TIMER LAGAO,set_timer
+launch whatsapp,open_website
+assistant countdown two minutes please,set_timer
+WHAT IS 20 PERCENT OF 2,calculate
+Lights jala do thanks,smart_home
+please reminder charge my phone at 4 am,set_reminder
+ok i want to hear a joke now,tell_joke
+send an sms to ali thanks,send_message
+Tell me a funny joke please,tell_joke
+could ou pull up spotify,open_website
+i want you to closest coffee shop to me,navigate
+launch spotify please,open_website
+what's the difference between history of the internet and tcp and udp,web_search
+LOCK THE DOOR THANKS,smart_home
+i want you to pull up wikipedia right now,open_website
+i want you to show me results for cricket scores,web_search
+yo remind me to take my medicine this evening asap,set_reminder
+Yo kya aaj barish hogi asap,get_weather
+Assistant tell me a joke asap,tell_joke
+Hey visit wikipedia,open_website
+ok dial 03451234567 for me,make_call
+Please i want to talk to fatima,make_call
+um will it rain today,get_weather
+I WANT YOU TO PUT ON DIL DIL PAKISTAN ASAP,play_music
+take me to centaurus mall for me,navigate
+find the way to the city center asap,navigate
+hey assistant salam kaise ho thanks,greeting
+yo what is scikit learn documentation,web_search
+Um count down from two minutes,set_timer
+Yo call my fatima right now,make_call
+so meaning of best laptops under 1000 dollars please,web_search
+what is history of the internet now?,web_search
+Can you open whatsapp asap?,open_website
+Could you remind me about go to the gym this evening for me,set_reminder
+Kill the lights,smart_home
+So let bilal know that the meeting is at 5,send_message
+assistant phone fatima,make_call
+hey assistant weather today for me,get_weather
+Hamza ko phone lagao right now,make_call
+i want you to drop a text to my friend call me back thanks,send_message
+yo google open karo thanks,open_website
+Yo count down from 30 seconds please,set_timer
+yo open the github website please,open_website
+COULD YOU WHAT IS 75 PLUS 7 PLEASE,calculate
+send an email to my wife saying i reached home thanks,send_message
+i want you to lighten the mood with something funny,tell_joke
+Assitsant set a wake up call for 4:45 pm right now,set_alarm
+assistant i wat to open netflix,open_website
+set a an hoour timer,set_timer
+i want you to i'm in the mood for sad songs now,play_music
+SOLE 75 * 40 + 2,calculate
+i want you to what's 36 times 9,calculate
+i want you to living room lights band karo please,smart_home
+UM GOOD AFTERNOON FOR ME,greeting
+hey assistant turn on some music now,play_music
+Yo lock the front door now,smart_home
+How many calories in a slice of pizza please,web_search
+i want you to assalam o alaikum,greeting
+please reminder to pick up the kids tomorrow,set_reminder
+um wake me up tomorrow at 6 in the morning,set_alarm
+Yo start navigation to the university asap,navigate
+Um what is the temperature in rawalpindi now,get_weather
+um when was alan turing born right now,web_search
+Ok how hot is it in faisalabad asap,get_weather
+assistant give hassan a call,make_call
+Look for best laptops under 1000 dollars online,web_search
+Hey unlock the door,smart_home
+yo start a video call with ahmed,make_call
+yo i'm bored say something funny,tell_joke
+could you what's the forecast for tomorrow,get_weather
+Assistant time now,get_time
+light bband kar do thanks,smart_home
+please i'd like to hear some instrumental music right now,play_music
+please whatis 120 plus 3,calculate
+Assistant what is best laptops under 1000 dollars,web_search
+please wake me at 7 tomorrow right now,set_alarm
+Current date,get_time
+Um show centaurus mall n the map,navigate
+Show me the route to the nearest hospital,navigate
+could you whatsapp bilal saying where are you,send_message
+CHECK THE WEATHER IN BERLIN,get_weather
+hey assistant can you call hassan on speaker for me,make_call
+Ok how late is it in new york,get_time
+atif aslam chalao thanks,play_music
+please start navigation to murree now,navigate
+please unlock the door for me,smart_home
+Um khuda hafiz,greeting
+set timer 20 mins right now,set_timer
+hey assistant look for albert einstein online right now,web_search
+Set the thermostat to 20 degrees,smart_home
+Assistant create a reminder for renew my passport at 4 am,set_reminder
+Assistant tell john i reached home thanks,send_message
+UM DIRECTIONS TO CENTAURUS ALL,navigate
+So i need an alarm at 6 am,set_alarm
+what's 64 multiplied by 3,calculate
+I want you to kya aaj barish hogi,get_weather
+hey hllo there for me,greeting
+ok reminder to feed the cat this evening,set_reminder
+OK TAKE ME TO F-10 MARKAZ THANKS,navigate
+please what hour is it in karachi for me,get_time
