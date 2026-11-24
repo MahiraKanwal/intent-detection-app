@@ -92,3 +92,11 @@ See README section 5: push to GitHub, create a Render web service, then attach a
 
 ## 12. Ideas not done yet
 - More intents, a public dataset (SNIPS / Banking77), a transformer comparison, logging real user commands.
+## 13. Online deployment (PythonAnywhere)
+- Render asked for a card even on the free plan, so I used PythonAnywhere (free Beginner account, no card).
+- Steps: created account "intentia", uploaded the project zip in the Files tab, unzipped it in a Bash console, checked the libraries (Python 3.13, scikit-learn 1.6.0), retrained the model there with `python3 train.py` (hard-test accuracy 0.967), then Web tab > Add a new web app > Manual configuration > Python 3.13, edited the WSGI file (project path /home/intentia/intent-detection-app, `from app import app as application`) and clicked Reload.
+- Error faced: SyntaxError in the WSGI file, because the website link was pasted into the file by mistake. Fixed by replacing the whole file with the 7 correct lines.
+- Live link: https://intentia.pythonanywhere.com
+- Tested on a phone browser: it opens.
+- The free app expires after 1 month. Click "Run until 1 month from today" on the Web tab to keep it running.
+- Code is on GitHub (private): https://github.com/MahiraKanwal/intent-detection-app
